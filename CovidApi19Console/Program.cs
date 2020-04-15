@@ -349,12 +349,26 @@ namespace CovidApi19Console
     /// </summary>
     private static void RefreshRepo()
     {
-      var cmd = @"git pull upstream master";
-      var result = CommandOutput(cmd, process.Configuration.RepoBasePath);
-      Trace.TraceInformation(cmd);
-      Trace.TraceInformation(result);
+      var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      string[] cmds = new string[]
+      {
+        $"git pull origin master",
+        @"git pull upstream master",
+        $"git add .",
+        $"git commit -m \"{commitMessage}\"",
+        $"git push origin master"
+      };
+      foreach(var cmd in cmds)
+      {
+        var result = CommandOutput(cmd, process.Configuration.RepoBasePath);
+        Trace.TraceInformation(cmd);
+        Trace.TraceInformation(result);
+      }
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
     private static void PushRepo()
     {
       var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
@@ -373,6 +387,9 @@ namespace CovidApi19Console
       }
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
     private static void PublishFiles()
     {
       var outputDir = Path.Combine(process.Configuration.PublishBasePath, "docs");
@@ -387,6 +404,9 @@ namespace CovidApi19Console
       }
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
     private static void ProcessSourceFiles()
     {
       ProcessCountries();
@@ -394,6 +414,9 @@ namespace CovidApi19Console
       ProcessTimeSeriesData();
     }
 
+    /// <summary>
+    /// /
+    /// </summary>
     private static void InitTracing()
     {
       var textListener = new TextWriterTraceListener("covid19apiconsole.log", "text")
