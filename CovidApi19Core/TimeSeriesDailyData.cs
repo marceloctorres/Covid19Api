@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MarceloCTorres.CovidApi19.Core
+﻿namespace MarceloCTorres.CovidApi19.Core
 {
   public class TimeSeriesDailyData : DailyData
   {

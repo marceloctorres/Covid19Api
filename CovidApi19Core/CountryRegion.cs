@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
+
 using Newtonsoft.Json;
 
 namespace MarceloCTorres.CovidApi19.Core
@@ -44,10 +43,7 @@ namespace MarceloCTorres.CovidApi19.Core
     [JsonProperty("cultureNames")]
     public List<CountryRegionCultureName> CultureNames { get; set; }
 
-    public CountryRegion()
-    {
-      CultureNames = new List<CountryRegionCultureName>();
-    }
+    public CountryRegion() => CultureNames = new List<CountryRegionCultureName>();
 
     public void SetCurrentCultureName()
     {

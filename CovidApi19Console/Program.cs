@@ -6,25 +6,22 @@ using System.Text;
 
 using MarceloCTorres.CovidApi19.Core;
 
-using Microsoft.Extensions.Logging;
-
 namespace CovidApi19Console
 {
-  class Program
+  internal class Program
   {
-    static readonly ProcessSourceInfo process = new ProcessSourceInfo();
-    static readonly string basePath = @"..\..\..\";
-    static readonly string configurationFileName = "configuration.json";
-    static string configurationFilePath;
-    static bool isCountriesUpdated = true;
-    static bool isDailyReporUptated = true;
-    static bool isConfirmedTimeSeriesUpdated = true;
-    static bool isDeathsTimeSeriesUpdated = true;
-    static bool isRecoveredTimeSeriesUpdated = true;
+    private static readonly ProcessSourceInfo process = new ProcessSourceInfo();
+    private static readonly string basePath = @"..\..\..\";
+    private static readonly string configurationFileName = "configuration.json";
+    private static string configurationFilePath;
+    private static bool isCountriesUpdated = true;
+    private static bool isDailyReporUptated = true;
+    private static bool isConfirmedTimeSeriesUpdated = true;
+    private static bool isDeathsTimeSeriesUpdated = true;
+    private static bool isRecoveredTimeSeriesUpdated = true;
+    private static string actualPath;
 
-    static string actualPath;
-
-    static void GetActualPath()
+    private static void GetActualPath()
     {
 #if DEBUG
       var processDir = Directory.GetCurrentDirectory();
@@ -34,7 +31,7 @@ namespace CovidApi19Console
 #endif
     }
 
-    static void InitDirectories()
+    private static void InitDirectories()
     {
       process.Configuration.SourceBasePath = Path.Combine(actualPath, "Sources");
       process.Configuration.TargetBasePath = Path.Combine(actualPath, "Target");
@@ -50,7 +47,7 @@ namespace CovidApi19Console
       }
     }
 
-    static void ProcessCountries()
+    private static void ProcessCountries()
     {
       var fileTypeConfiguration = process.FindFileTypeConfiguration(SourceTypes.Countries);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
@@ -66,7 +63,7 @@ namespace CovidApi19Console
       }
     }
 
-    static void ReadCountries()
+    private static void ReadCountries()
     {
       var fileTypeConfiguration = process.FindFileTypeConfiguration(SourceTypes.Countries);
       var targetPath = Path.Combine(process.Configuration.TargetBasePath, fileTypeConfiguration.TargetFileName);
@@ -78,7 +75,7 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void ProcessDialyReports()
+    private static void ProcessDialyReports()
     {
       if(isDailyReporUptated)
       {
@@ -102,7 +99,7 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void ProcessConfirmedTimeSeries()
+    private static void ProcessConfirmedTimeSeries()
     {
       if(process.Regions == null)
       {
@@ -118,7 +115,7 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void ProcessDeathsTimeSeries()
+    private static void ProcessDeathsTimeSeries()
     {
       if(process.Regions == null)
       {
@@ -134,7 +131,7 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void ProcessRecoveredTimeSeries()
+    private static void ProcessRecoveredTimeSeries()
     {
       if(process.Regions == null)
       {
@@ -150,7 +147,7 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void ProcessTimeSeriesData()
+    private static void ProcessTimeSeriesData()
     {
       if(isConfirmedTimeSeriesUpdated || isDeathsTimeSeriesUpdated || isRecoveredTimeSeriesUpdated)
       {
@@ -167,7 +164,7 @@ namespace CovidApi19Console
       }
     }
 
-    static Configuration GetConfiguration()
+    private static Configuration GetConfiguration()
     {
       GetActualPath();
       Trace.TraceInformation(actualPath);
@@ -243,7 +240,7 @@ namespace CovidApi19Console
     /// <param name="sourceTypes"></param>
     /// <param name="isUpdated"></param>
     /// <param name="findLast"></param>
-    static void GetRepoFiles(SourceTypes sourceTypes, ref bool isUpdated, bool findLast = false)
+    private static void GetRepoFiles(SourceTypes sourceTypes, ref bool isUpdated, bool findLast = false)
     {
       var fileTypeConfiguration = process.FindFileTypeConfiguration(sourceTypes);
       var repoPath = findLast ?
@@ -272,47 +269,32 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void GetCountryRepoFiles()
-    {
-      GetRepoFiles(SourceTypes.Countries, ref isCountriesUpdated);
-    }
+    private static void GetCountryRepoFiles() => GetRepoFiles(SourceTypes.Countries, ref isCountriesUpdated);
 
     /// <summary>
     /// 
     /// </summary>
-    static void GetDialyReportRepoFiles()
-    {
-      GetRepoFiles(SourceTypes.DialyReport, ref isDailyReporUptated, true);
-    }
+    private static void GetDialyReportRepoFiles() => GetRepoFiles(SourceTypes.DialyReport, ref isDailyReporUptated, true);
 
     /// <summary>
     /// 
     /// </summary>
-    static void GetConfirmedRepoFiles()
-    {
-      GetRepoFiles(SourceTypes.TimeSeriesConfirmed, ref isConfirmedTimeSeriesUpdated);
-    }
+    private static void GetConfirmedRepoFiles() => GetRepoFiles(SourceTypes.TimeSeriesConfirmed, ref isConfirmedTimeSeriesUpdated);
 
     /// <summary>
     /// 
     /// </summary>
-    static void GetDeathsRepoFiles()
-    {
-      GetRepoFiles(SourceTypes.TimeSeriesDeaths, ref isDeathsTimeSeriesUpdated);
-    }
+    private static void GetDeathsRepoFiles() => GetRepoFiles(SourceTypes.TimeSeriesDeaths, ref isDeathsTimeSeriesUpdated);
 
     /// <summary>
     /// 
     /// </summary>
-    static void GetRecoveredRepoFiles()
-    {
-      GetRepoFiles(SourceTypes.TimeSeriesRecovered, ref isRecoveredTimeSeriesUpdated);
-    }
+    private static void GetRecoveredRepoFiles() => GetRepoFiles(SourceTypes.TimeSeriesRecovered, ref isRecoveredTimeSeriesUpdated);
 
     /// <summary>
     /// 
     /// </summary>
-    static void GetRepoFiles()
+    private static void GetRepoFiles()
     {
       GetCountryRepoFiles();
       GetDialyReportRepoFiles();
@@ -321,7 +303,7 @@ namespace CovidApi19Console
       GetRecoveredRepoFiles();
     }
 
-    static string CommandOutput(string command, string workingDirectory = null)
+    private static string CommandOutput(string command, string workingDirectory = null)
     {
       try
       {
@@ -365,7 +347,7 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    static void RefreshRepo()
+    private static void RefreshRepo()
     {
       var cmd = @"git pull upstream master";
       var result = CommandOutput(cmd, process.Configuration.RepoBasePath);
@@ -373,7 +355,7 @@ namespace CovidApi19Console
       Trace.TraceInformation(result);
     }
 
-    static void PushRepo()
+    private static void PushRepo()
     {
       var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
       string[] cmds = new string[]
@@ -391,7 +373,7 @@ namespace CovidApi19Console
       }
     }
 
-    static void PublishFiles()
+    private static void PublishFiles()
     {
       var outputDir = Path.Combine(process.Configuration.PublishBasePath, "docs");
       var inputDir = process.Configuration.TargetBasePath;
@@ -405,18 +387,18 @@ namespace CovidApi19Console
       }
     }
 
-    static void ProcessSourceFiles()
+    private static void ProcessSourceFiles()
     {
       ProcessCountries();
       ProcessDialyReports();
       ProcessTimeSeriesData();
     }
 
-    static void InitTracing()
+    private static void InitTracing()
     {
       var textListener = new TextWriterTraceListener("covid19apiconsole.log", "text")
       {
-        TraceOutputOptions = TraceOptions.DateTime 
+        TraceOutputOptions = TraceOptions.DateTime
       };
 
       var consoleListener = new ConsoleTraceListener(true)
@@ -427,7 +409,8 @@ namespace CovidApi19Console
       Trace.Listeners.Add(textListener);
       Trace.Listeners.Add(consoleListener);
     }
-    static void Main(string[] args)
+
+    private static void Main(string[] args)
     {
       try
       {

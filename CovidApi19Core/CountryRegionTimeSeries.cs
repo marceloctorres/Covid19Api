@@ -1,6 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+
 using Newtonsoft.Json;
 
 namespace MarceloCTorres.CovidApi19.Core
@@ -28,9 +27,6 @@ namespace MarceloCTorres.CovidApi19.Core
     /// <summary>
     /// 
     /// </summary>
-    public CountryRegionTimeSeries()
-    {
-      TimeSeries = new List<DailyData>();
-    }
+    public CountryRegionTimeSeries() => TimeSeries = new List<DailyData>();
   }
 }

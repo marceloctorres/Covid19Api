@@ -10,7 +10,7 @@ namespace MarceloCTorres.CovidApi19.Core
     public SourceTypes SourceType { get; set; }
 
     [JsonProperty("repoFileName")]
-    public string RepoFileName {get; set;}
+    public string RepoFileName { get; set; }
 
     [JsonProperty("repoRelativeFilePath")]
     public string RepoRelativeFilePath { get; set; }

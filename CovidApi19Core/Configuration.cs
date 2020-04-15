@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+
 using Newtonsoft.Json;
 
 namespace MarceloCTorres.CovidApi19.Core
@@ -38,15 +39,12 @@ namespace MarceloCTorres.CovidApi19.Core
     /// 
     /// </summary>
     [JsonProperty("filesConfiguration")]
-    public List<FileTypeConfiguration> FilesConfiguration { get; set;}
+    public List<FileTypeConfiguration> FilesConfiguration { get; set; }
 
     /// <summary>
     /// 
     /// </summary>
-    public Configuration()
-    {
-      FilesConfiguration = new List<FileTypeConfiguration>();
-    }
+    public Configuration() => FilesConfiguration = new List<FileTypeConfiguration>();
 
     /// <summary>
     /// 

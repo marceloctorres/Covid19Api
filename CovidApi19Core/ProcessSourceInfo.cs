@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Text;
+
 using CsvHelper;
+
 using Newtonsoft.Json;
 
 namespace MarceloCTorres.CovidApi19.Core
@@ -43,10 +43,7 @@ namespace MarceloCTorres.CovidApi19.Core
 
     }
 
-    public FileTypeConfiguration FindFileTypeConfiguration(SourceTypes type)
-    {
-      return Configuration.FilesConfiguration.Where(f => f.SourceType == type).FirstOrDefault();
-    }
+    public FileTypeConfiguration FindFileTypeConfiguration(SourceTypes type) => Configuration.FilesConfiguration.Where(f => f.SourceType == type).FirstOrDefault();
 
     /// <summary>
     /// 
@@ -215,30 +212,21 @@ namespace MarceloCTorres.CovidApi19.Core
     /// </summary>
     /// <param name="data"></param>
     /// <param name="value"></param>
-    public void UpdateConfirmed(DailyData data, long value)
-    {
-      data.Confirmed = value;
-    }
+    public void UpdateConfirmed(DailyData data, long value) => data.Confirmed = value;
 
     /// <summary>
     /// 
     /// </summary>
     /// <param name="data"></param>
     /// <param name="value"></param>
-    public void UpdateDeaths(DailyData data, long value)
-    {
-      data.Deaths = value;
-    }
+    public void UpdateDeaths(DailyData data, long value) => data.Deaths = value;
 
     /// <summary>
     /// 
     /// </summary>
     /// <param name="data"></param>
     /// <param name="value"></param>
-    public void UpdateRecovered(DailyData data, long value)
-    {
-      data.Recovered = value;
-    }
+    public void UpdateRecovered(DailyData data, long value) => data.Recovered = value;
 
 
     /// <summary>
@@ -263,7 +251,7 @@ namespace MarceloCTorres.CovidApi19.Core
         var dict = (IDictionary<string, object>)record;
         var countryRegion = FindCountry((string)dict["Country/Region"]);
         var provinceState = (string)dict["Province/State"];
-        var noDateFields = new string[] {"Province/State", "Country/Region", "Lat", "Long" };
+        var noDateFields = new string[] { "Province/State", "Country/Region", "Lat", "Long" };
 
         var timeSeriesItem = FindCountryTimeSeries(countryRegion.Name, provinceState);
         if(timeSeriesItem == null)
@@ -297,12 +285,10 @@ namespace MarceloCTorres.CovidApi19.Core
       }
     }
 
-    public void ConsolidateTimeSeries()
-    {
-      TimeSeries = TimeSeries
+    public void ConsolidateTimeSeries() => TimeSeries = TimeSeries
                     .GroupBy(
                       t => t.CountryRegion,
-                      t => t.TimeSeries, 
+                      t => t.TimeSeries,
                       (k, g) =>
                         {
                           var timeSeries = g.SelectMany(d => d, (d, daily) => daily)
@@ -329,7 +315,6 @@ namespace MarceloCTorres.CovidApi19.Core
                         })
                     .OrderBy(t => t.CountryRegion.ThreeLetterIsoCode)
                     .ToList();
-    }
-    
+
   }
 }
