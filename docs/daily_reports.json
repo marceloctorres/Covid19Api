@@ -1,0 +1,4432 @@
+[
+  {
+    "region": {
+      "threeLetterIsoCode": "AFG",
+      "twoLetterIsoCode": "AF",
+      "countryRegion": "Afghanistan",
+      "latitude": 33.93911,
+      "longitude": 67.709953,
+      "population": 38928341,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Afganistán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 714,
+      "deaths": 23,
+      "recovered": 40,
+      "active": 651
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "AGO",
+      "twoLetterIsoCode": "AO",
+      "countryRegion": "Angola",
+      "latitude": -11.2027,
+      "longitude": 17.8739,
+      "population": 32866268,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Angola"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 19,
+      "deaths": 2,
+      "recovered": 5,
+      "active": 12
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ALB",
+      "twoLetterIsoCode": "AL",
+      "countryRegion": "Albania",
+      "latitude": 41.1533,
+      "longitude": 20.1683,
+      "population": 2877800,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Albania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 475,
+      "deaths": 24,
+      "recovered": 248,
+      "active": 203
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "AND",
+      "twoLetterIsoCode": "AD",
+      "countryRegion": "Andorra",
+      "latitude": 42.5063,
+      "longitude": 1.5218,
+      "population": 77265,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Andorra"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 659,
+      "deaths": 31,
+      "recovered": 128,
+      "active": 500
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ARE",
+      "twoLetterIsoCode": "AE",
+      "countryRegion": "United Arab Emirates",
+      "latitude": 23.424076,
+      "longitude": 53.847818,
+      "population": 9890400,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Emiratos Árabes Unidos"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 4933,
+      "deaths": 28,
+      "recovered": 933,
+      "active": 3972
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ARG",
+      "twoLetterIsoCode": "AR",
+      "countryRegion": "Argentina",
+      "latitude": -38.4161,
+      "longitude": -63.6167,
+      "population": 45195777,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Argentina"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2277,
+      "deaths": 102,
+      "recovered": 559,
+      "active": 1616
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ARM",
+      "twoLetterIsoCode": "AM",
+      "countryRegion": "Armenia",
+      "latitude": 40.0691,
+      "longitude": 45.0382,
+      "population": 2963234,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Armenia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1067,
+      "deaths": 16,
+      "recovered": 265,
+      "active": 786
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ATG",
+      "twoLetterIsoCode": "AG",
+      "countryRegion": "Antigua and Barbuda",
+      "latitude": 17.0608,
+      "longitude": -61.7964,
+      "population": 97928,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Antigua y Barbuda"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 23,
+      "deaths": 2,
+      "recovered": 3,
+      "active": 18
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "AUS",
+      "twoLetterIsoCode": "AU",
+      "countryRegion": "Australia",
+      "latitude": -25.0,
+      "longitude": 133.0,
+      "population": 25459700,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Australia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:41:11",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6415,
+      "deaths": 62,
+      "recovered": 2186,
+      "active": 4167
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "AUT",
+      "twoLetterIsoCode": "AT",
+      "countryRegion": "Austria",
+      "latitude": 47.5162,
+      "longitude": 14.5501,
+      "population": 9006400,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Austria"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 14226,
+      "deaths": 384,
+      "recovered": 7633,
+      "active": 6209
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "AZE",
+      "twoLetterIsoCode": "AZ",
+      "countryRegion": "Azerbaijan",
+      "latitude": 40.1431,
+      "longitude": 47.5769,
+      "population": 10139175,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Azerbaiyán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1197,
+      "deaths": 13,
+      "recovered": 351,
+      "active": 833
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BDI",
+      "twoLetterIsoCode": "BI",
+      "countryRegion": "Burundi",
+      "latitude": -3.3731,
+      "longitude": 29.9189,
+      "population": 11890781,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Burundi"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 5,
+      "deaths": 1,
+      "recovered": 0,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BEL",
+      "twoLetterIsoCode": "BE",
+      "countryRegion": "Belgium",
+      "latitude": 50.8333,
+      "longitude": 4.469936,
+      "population": 11589616,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bélgica"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 31119,
+      "deaths": 4157,
+      "recovered": 6868,
+      "active": 20094
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BEN",
+      "twoLetterIsoCode": "BJ",
+      "countryRegion": "Benin",
+      "latitude": 9.3077,
+      "longitude": 2.3158,
+      "population": 12123198,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Benín"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 35,
+      "deaths": 1,
+      "recovered": 18,
+      "active": 16
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BFA",
+      "twoLetterIsoCode": "BF",
+      "countryRegion": "Burkina Faso",
+      "latitude": 12.2383,
+      "longitude": -1.5616,
+      "population": 20903278,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Burkina Faso"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 528,
+      "deaths": 30,
+      "recovered": 177,
+      "active": 321
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BGD",
+      "twoLetterIsoCode": "BD",
+      "countryRegion": "Bangladesh",
+      "latitude": 23.685,
+      "longitude": 90.3563,
+      "population": 164689383,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bangladesh"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1012,
+      "deaths": 46,
+      "recovered": 42,
+      "active": 924
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BGR",
+      "twoLetterIsoCode": "BG",
+      "countryRegion": "Bulgaria",
+      "latitude": 42.7339,
+      "longitude": 25.4858,
+      "population": 6948445,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bulgaria"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 713,
+      "deaths": 35,
+      "recovered": 81,
+      "active": 597
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BHR",
+      "twoLetterIsoCode": "BH",
+      "countryRegion": "Bahrain",
+      "latitude": 26.0275,
+      "longitude": 50.55,
+      "population": 1701583,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Baréin"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1528,
+      "deaths": 7,
+      "recovered": 645,
+      "active": 876
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BHS",
+      "twoLetterIsoCode": "BS",
+      "countryRegion": "Bahamas",
+      "latitude": 25.025885,
+      "longitude": -78.035889,
+      "population": 393248,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bahamas"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 49,
+      "deaths": 8,
+      "recovered": 6,
+      "active": 35
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BIH",
+      "twoLetterIsoCode": "BA",
+      "countryRegion": "Bosnia and Herzegovina",
+      "latitude": 43.9159,
+      "longitude": 17.6791,
+      "population": 3280815,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bosnia y Herzegovina"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1083,
+      "deaths": 40,
+      "recovered": 236,
+      "active": 807
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BLR",
+      "twoLetterIsoCode": "BY",
+      "countryRegion": "Belarus",
+      "latitude": 53.7098,
+      "longitude": 27.9534,
+      "population": 9449321,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Belarús"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3281,
+      "deaths": 33,
+      "recovered": 203,
+      "active": 3045
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BLZ",
+      "twoLetterIsoCode": "BZ",
+      "countryRegion": "Belize",
+      "latitude": 17.1899,
+      "longitude": -88.4976,
+      "population": 397621,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Belice"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 18,
+      "deaths": 2,
+      "recovered": 0,
+      "active": 16
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BOL",
+      "twoLetterIsoCode": "BO",
+      "countryRegion": "Bolivia",
+      "latitude": -16.2902,
+      "longitude": -63.5887,
+      "population": 11673029,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bolivia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 354,
+      "deaths": 28,
+      "recovered": 6,
+      "active": 320
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BRA",
+      "twoLetterIsoCode": "BR",
+      "countryRegion": "Brazil",
+      "latitude": -14.235,
+      "longitude": -51.9253,
+      "population": 212559409,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Brasil"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 25262,
+      "deaths": 1532,
+      "recovered": 3046,
+      "active": 20684
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BRB",
+      "twoLetterIsoCode": "BB",
+      "countryRegion": "Barbados",
+      "latitude": 13.1939,
+      "longitude": -59.5432,
+      "population": 287371,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Barbados"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 72,
+      "deaths": 4,
+      "recovered": 13,
+      "active": 55
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BRN",
+      "twoLetterIsoCode": "BN",
+      "countryRegion": "Brunei",
+      "latitude": 4.5353,
+      "longitude": 114.7277,
+      "population": 437483,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Brunéi"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 136,
+      "deaths": 1,
+      "recovered": 107,
+      "active": 28
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BTN",
+      "twoLetterIsoCode": "BT",
+      "countryRegion": "Bhutan",
+      "latitude": 27.5142,
+      "longitude": 90.4336,
+      "population": 771612,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Bután"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 5,
+      "deaths": 0,
+      "recovered": 2,
+      "active": 3
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "BWA",
+      "twoLetterIsoCode": "BW",
+      "countryRegion": "Botswana",
+      "latitude": -22.3285,
+      "longitude": 24.6849,
+      "population": 2351625,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Botsuana"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 13,
+      "deaths": 1,
+      "recovered": 0,
+      "active": 12
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CAF",
+      "twoLetterIsoCode": "CF",
+      "countryRegion": "Central African Republic",
+      "latitude": 6.6111,
+      "longitude": 20.9394,
+      "population": 4829764,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "República Centroafricana"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11,
+      "deaths": 0,
+      "recovered": 4,
+      "active": 7
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CAN",
+      "twoLetterIsoCode": "CA",
+      "countryRegion": "Canada",
+      "latitude": 60.0,
+      "longitude": -95.0,
+      "population": 37855702,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Canadá"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:40:54",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 27035,
+      "deaths": 900,
+      "recovered": 8210,
+      "active": 17925
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CHE",
+      "twoLetterIsoCode": "CH",
+      "countryRegion": "Switzerland",
+      "latitude": 46.8182,
+      "longitude": 8.2275,
+      "population": 8654618,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Suiza"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 25936,
+      "deaths": 1174,
+      "recovered": 13700,
+      "active": 11062
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CHL",
+      "twoLetterIsoCode": "CL",
+      "countryRegion": "Chile",
+      "latitude": -35.6751,
+      "longitude": -71.543,
+      "population": 19116209,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Chile"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 7917,
+      "deaths": 92,
+      "recovered": 2646,
+      "active": 5179
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CHN",
+      "twoLetterIsoCode": "CN",
+      "countryRegion": "China",
+      "latitude": 30.5928,
+      "longitude": 114.3055,
+      "population": 1404676330,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "China"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-09T01:12:20",
+    "dailyData": {
+      "date": "2020-04-09T00:00:00",
+      "confirmed": 83306,
+      "deaths": 3345,
+      "recovered": 78200,
+      "active": 1761
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CIV",
+      "twoLetterIsoCode": "CI",
+      "countryRegion": "Cote d'Ivoire",
+      "latitude": 7.54,
+      "longitude": -5.5471,
+      "population": 26378275,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Côte d’Ivoire"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 638,
+      "deaths": 6,
+      "recovered": 114,
+      "active": 518
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CMR",
+      "twoLetterIsoCode": "CM",
+      "countryRegion": "Cameroon",
+      "latitude": 3.848,
+      "longitude": 11.5021,
+      "population": 26545864,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Camerún"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 848,
+      "deaths": 14,
+      "recovered": 130,
+      "active": 704
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "COD",
+      "twoLetterIsoCode": "CD",
+      "countryRegion": "Congo (Kinshasa)",
+      "latitude": -4.322447,
+      "longitude": 15.307045,
+      "population": 89561404,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Congo (RDC)"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 241,
+      "deaths": 20,
+      "recovered": 20,
+      "active": 201
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "COG",
+      "twoLetterIsoCode": "CG",
+      "countryRegion": "Congo (Brazzaville)",
+      "latitude": -4.2634,
+      "longitude": 15.2832,
+      "population": 5518092,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "República Democrática del Congo"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 60,
+      "deaths": 5,
+      "recovered": 5,
+      "active": 50
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "COL",
+      "twoLetterIsoCode": "CO",
+      "countryRegion": "Colombia",
+      "latitude": 4.5709,
+      "longitude": -74.2973,
+      "population": 50882884,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Colombia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2979,
+      "deaths": 127,
+      "recovered": 354,
+      "active": 2498
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CPV",
+      "twoLetterIsoCode": "CV",
+      "countryRegion": "Cabo Verde",
+      "latitude": 16.5388,
+      "longitude": -23.0418,
+      "population": 555988,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Cabo Verde"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11,
+      "deaths": 1,
+      "recovered": 1,
+      "active": 9
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CRI",
+      "twoLetterIsoCode": "CR",
+      "countryRegion": "Costa Rica",
+      "latitude": 9.7489,
+      "longitude": -83.7534,
+      "population": 5094114,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Costa Rica"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 618,
+      "deaths": 3,
+      "recovered": 66,
+      "active": 549
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CUB",
+      "twoLetterIsoCode": "CU",
+      "countryRegion": "Cuba",
+      "latitude": 21.521757,
+      "longitude": -77.781167,
+      "population": 11326616,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Cuba"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 766,
+      "deaths": 21,
+      "recovered": 132,
+      "active": 613
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CYP",
+      "twoLetterIsoCode": "CY",
+      "countryRegion": "Cyprus",
+      "latitude": 35.1264,
+      "longitude": 33.4299,
+      "population": 1207361,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Chipre"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 695,
+      "deaths": 12,
+      "recovered": 65,
+      "active": 618
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "CZE",
+      "twoLetterIsoCode": "CZ",
+      "countryRegion": "Czechia",
+      "latitude": 49.8175,
+      "longitude": 15.473,
+      "population": 10708982,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Chequia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6111,
+      "deaths": 161,
+      "recovered": 642,
+      "active": 5308
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DEU",
+      "twoLetterIsoCode": "DE",
+      "countryRegion": "Germany",
+      "latitude": 51.165691,
+      "longitude": 10.451526,
+      "population": 83783945,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Alemania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 131359,
+      "deaths": 3294,
+      "recovered": 68200,
+      "active": 59865
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DJI",
+      "twoLetterIsoCode": "DJ",
+      "countryRegion": "Djibouti",
+      "latitude": 11.8251,
+      "longitude": 42.5903,
+      "population": 988002,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Yibuti"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 363,
+      "deaths": 2,
+      "recovered": 53,
+      "active": 308
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DMA",
+      "twoLetterIsoCode": "DM",
+      "countryRegion": "Dominica",
+      "latitude": 15.415,
+      "longitude": -61.371,
+      "population": 71991,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Dominica"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 8,
+      "active": 8
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DNK",
+      "twoLetterIsoCode": "DK",
+      "countryRegion": "Denmark",
+      "latitude": 56.2639,
+      "longitude": 9.5018,
+      "population": 5792203,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Dinamarca"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6706,
+      "deaths": 299,
+      "recovered": 2689,
+      "active": 3718
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DOM",
+      "twoLetterIsoCode": "DO",
+      "countryRegion": "Dominican Republic",
+      "latitude": 18.7357,
+      "longitude": -70.1627,
+      "population": 10847904,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "República Dominicana"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3286,
+      "deaths": 183,
+      "recovered": 162,
+      "active": 2941
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DPS",
+      "twoLetterIsoCode": "",
+      "countryRegion": "Diamond Princess",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "population": null,
+      "cultureNames": []
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 712,
+      "deaths": 12,
+      "recovered": 639,
+      "active": 61
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "DZA",
+      "twoLetterIsoCode": "DZ",
+      "countryRegion": "Algeria",
+      "latitude": 28.0339,
+      "longitude": 1.6596,
+      "population": 43851043,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Argelia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2070,
+      "deaths": 326,
+      "recovered": 691,
+      "active": 1053
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ECU",
+      "twoLetterIsoCode": "EC",
+      "countryRegion": "Ecuador",
+      "latitude": -1.8312,
+      "longitude": -78.1834,
+      "population": 17643060,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Ecuador"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 7603,
+      "deaths": 369,
+      "recovered": 696,
+      "active": 6538
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "EGY",
+      "twoLetterIsoCode": "EG",
+      "countryRegion": "Egypt",
+      "latitude": 26.820553,
+      "longitude": 30.802498,
+      "population": 102334403,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Egipto"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2350,
+      "deaths": 178,
+      "recovered": 589,
+      "active": 1583
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ERI",
+      "twoLetterIsoCode": "ER",
+      "countryRegion": "Eritrea",
+      "latitude": 15.1794,
+      "longitude": 39.7823,
+      "population": 3546427,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Eritrea"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 34,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 34
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ESH",
+      "twoLetterIsoCode": "EH",
+      "countryRegion": "Western Sahara",
+      "latitude": 24.2155,
+      "longitude": -12.8858,
+      "population": 597330,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": ""
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 6
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ESP",
+      "twoLetterIsoCode": "ES",
+      "countryRegion": "Spain",
+      "latitude": 40.463667,
+      "longitude": -3.74922,
+      "population": 46754783,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "España"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 172541,
+      "deaths": 18056,
+      "recovered": 67504,
+      "active": 86981
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "EST",
+      "twoLetterIsoCode": "EE",
+      "countryRegion": "Estonia",
+      "latitude": 58.5953,
+      "longitude": 25.0136,
+      "population": 1326539,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Estonia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1373,
+      "deaths": 31,
+      "recovered": 115,
+      "active": 1227
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ETH",
+      "twoLetterIsoCode": "ET",
+      "countryRegion": "Ethiopia",
+      "latitude": 9.145,
+      "longitude": 40.4897,
+      "population": 114963583,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Etiopía"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 82,
+      "deaths": 3,
+      "recovered": 14,
+      "active": 65
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "FIN",
+      "twoLetterIsoCode": "FI",
+      "countryRegion": "Finland",
+      "latitude": 61.92411,
+      "longitude": 25.748151,
+      "population": 5540718,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Finlandia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3161,
+      "deaths": 64,
+      "recovered": 300,
+      "active": 2797
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "FJI",
+      "twoLetterIsoCode": "FJ",
+      "countryRegion": "Fiji",
+      "latitude": -17.7134,
+      "longitude": 178.065,
+      "population": 896444,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Fiyi"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 16
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "FRA",
+      "twoLetterIsoCode": "FR",
+      "countryRegion": "France",
+      "latitude": 46.2276,
+      "longitude": 2.2137,
+      "population": 65273512,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Francia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 131361,
+      "deaths": 15748,
+      "recovered": 29098,
+      "active": 86515
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GAB",
+      "twoLetterIsoCode": "GA",
+      "countryRegion": "Gabon",
+      "latitude": -0.8037,
+      "longitude": 11.6094,
+      "population": 2225728,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Gabón"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 57,
+      "deaths": 1,
+      "recovered": 1,
+      "active": 55
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GBR",
+      "twoLetterIsoCode": "GB",
+      "countryRegion": "United Kingdom",
+      "latitude": 55.3781,
+      "longitude": -3.436,
+      "population": 67886004,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Reino Unido"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 94845,
+      "deaths": 12129,
+      "recovered": 323,
+      "active": 82393
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GEO",
+      "twoLetterIsoCode": "GE",
+      "countryRegion": "Georgia",
+      "latitude": 42.3154,
+      "longitude": 43.3569,
+      "population": 3989175,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Georgia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 300,
+      "deaths": 3,
+      "recovered": 69,
+      "active": 228
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GHA",
+      "twoLetterIsoCode": "GH",
+      "countryRegion": "Ghana",
+      "latitude": 7.9465,
+      "longitude": -1.0232,
+      "population": 31072945,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Ghana"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 636,
+      "deaths": 8,
+      "recovered": 17,
+      "active": 611
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GIN",
+      "twoLetterIsoCode": "GN",
+      "countryRegion": "Guinea",
+      "latitude": 9.9456,
+      "longitude": -9.6966,
+      "population": 13132792,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Guinea"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 363,
+      "deaths": 0,
+      "recovered": 31,
+      "active": 332
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GMB",
+      "twoLetterIsoCode": "GM",
+      "countryRegion": "Gambia",
+      "latitude": 13.4432,
+      "longitude": -15.3101,
+      "population": 2416664,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Gambia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 9,
+      "deaths": 1,
+      "recovered": 2,
+      "active": 6
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GNB",
+      "twoLetterIsoCode": "GW",
+      "countryRegion": "Guinea-Bissau",
+      "latitude": 11.8037,
+      "longitude": -15.1804,
+      "population": 1967998,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Guinea-Bisáu"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 38,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 38
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GNQ",
+      "twoLetterIsoCode": "GQ",
+      "countryRegion": "Equatorial Guinea",
+      "latitude": 1.6508,
+      "longitude": 10.2679,
+      "population": 1402985,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Guinea Ecuatorial"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 41,
+      "deaths": 0,
+      "recovered": 4,
+      "active": 37
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GRC",
+      "twoLetterIsoCode": "GR",
+      "countryRegion": "Greece",
+      "latitude": 39.0742,
+      "longitude": 21.8243,
+      "population": 10423056,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Grecia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2170,
+      "deaths": 101,
+      "recovered": 269,
+      "active": 1800
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GRD",
+      "twoLetterIsoCode": "GD",
+      "countryRegion": "Grenada",
+      "latitude": 12.1165,
+      "longitude": -61.679,
+      "population": 112519,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Granada"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 14,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 14
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GTM",
+      "twoLetterIsoCode": "GT",
+      "countryRegion": "Guatemala",
+      "latitude": 15.7835,
+      "longitude": -90.2308,
+      "population": 17915567,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Guatemala"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 167,
+      "deaths": 5,
+      "recovered": 19,
+      "active": 143
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "GUY",
+      "twoLetterIsoCode": "GY",
+      "countryRegion": "Guyana",
+      "latitude": 4.860416,
+      "longitude": -58.93018,
+      "population": 786559,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Guyana"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 47,
+      "deaths": 6,
+      "recovered": 8,
+      "active": 33
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "HND",
+      "twoLetterIsoCode": "HN",
+      "countryRegion": "Honduras",
+      "latitude": 15.2,
+      "longitude": -86.2419,
+      "population": 9904608,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Honduras"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 407,
+      "deaths": 26,
+      "recovered": 7,
+      "active": 374
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "HRV",
+      "twoLetterIsoCode": "HR",
+      "countryRegion": "Croatia",
+      "latitude": 45.1,
+      "longitude": 15.2,
+      "population": 4105268,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Croacia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1704,
+      "deaths": 31,
+      "recovered": 415,
+      "active": 1258
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "HTI",
+      "twoLetterIsoCode": "HT",
+      "countryRegion": "Haiti",
+      "latitude": 18.9712,
+      "longitude": -72.2852,
+      "population": 11402533,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Haití"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 40,
+      "deaths": 3,
+      "recovered": 0,
+      "active": 37
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "HUN",
+      "twoLetterIsoCode": "HU",
+      "countryRegion": "Hungary",
+      "latitude": 47.1625,
+      "longitude": 19.5033,
+      "population": 9660350,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Hungría"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1512,
+      "deaths": 122,
+      "recovered": 122,
+      "active": 1268
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "IDN",
+      "twoLetterIsoCode": "ID",
+      "countryRegion": "Indonesia",
+      "latitude": -0.7893,
+      "longitude": 113.9213,
+      "population": 273523621,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Indonesia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 4839,
+      "deaths": 459,
+      "recovered": 426,
+      "active": 3954
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "IND",
+      "twoLetterIsoCode": "IN",
+      "countryRegion": "India",
+      "latitude": 20.593684,
+      "longitude": 78.96288,
+      "population": 1380004385,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "India"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11487,
+      "deaths": 393,
+      "recovered": 1359,
+      "active": 9735
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "IRL",
+      "twoLetterIsoCode": "IE",
+      "countryRegion": "Ireland",
+      "latitude": 53.1424,
+      "longitude": -7.6921,
+      "population": 4937796,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Irlanda"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11479,
+      "deaths": 406,
+      "recovered": 25,
+      "active": 11048
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "IRN",
+      "twoLetterIsoCode": "IR",
+      "countryRegion": "Iran",
+      "latitude": 32.427908,
+      "longitude": 53.688046,
+      "population": 83992953,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Irán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 74877,
+      "deaths": 4683,
+      "recovered": 48129,
+      "active": 22065
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "IRQ",
+      "twoLetterIsoCode": "IQ",
+      "countryRegion": "Iraq",
+      "latitude": 33.223191,
+      "longitude": 43.679291,
+      "population": 40222503,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Irak"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1400,
+      "deaths": 78,
+      "recovered": 766,
+      "active": 556
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ISL",
+      "twoLetterIsoCode": "IS",
+      "countryRegion": "Iceland",
+      "latitude": 64.9631,
+      "longitude": -19.0208,
+      "population": 341250,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Islandia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1720,
+      "deaths": 8,
+      "recovered": 989,
+      "active": 723
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ISR",
+      "twoLetterIsoCode": "IL",
+      "countryRegion": "Israel",
+      "latitude": 31.046051,
+      "longitude": 34.851612,
+      "population": 8655541,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Israel"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 12046,
+      "deaths": 123,
+      "recovered": 2195,
+      "active": 9728
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ITA",
+      "twoLetterIsoCode": "IT",
+      "countryRegion": "Italy",
+      "latitude": 41.87194,
+      "longitude": 12.56738,
+      "population": 60461828,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Italia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 162488,
+      "deaths": 21067,
+      "recovered": 37130,
+      "active": 104291
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "JAM",
+      "twoLetterIsoCode": "JM",
+      "countryRegion": "Jamaica",
+      "latitude": 18.1096,
+      "longitude": -77.2975,
+      "population": 2961161,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Jamaica"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 73,
+      "deaths": 4,
+      "recovered": 19,
+      "active": 50
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "JOR",
+      "twoLetterIsoCode": "JO",
+      "countryRegion": "Jordan",
+      "latitude": 31.24,
+      "longitude": 36.51,
+      "population": 10203140,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Jordania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 397,
+      "deaths": 7,
+      "recovered": 235,
+      "active": 155
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "JPN",
+      "twoLetterIsoCode": "JP",
+      "countryRegion": "Japan",
+      "latitude": 36.204824,
+      "longitude": 138.252924,
+      "population": 126476458,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Japón"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 7645,
+      "deaths": 143,
+      "recovered": 799,
+      "active": 6703
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KAZ",
+      "twoLetterIsoCode": "KZ",
+      "countryRegion": "Kazakhstan",
+      "latitude": 48.0196,
+      "longitude": 66.9237,
+      "population": 18776707,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Kazajistán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1232,
+      "deaths": 14,
+      "recovered": 203,
+      "active": 1015
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KEN",
+      "twoLetterIsoCode": "KE",
+      "countryRegion": "Kenya",
+      "latitude": -0.0236,
+      "longitude": 37.9062,
+      "population": 53771300,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Kenia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 216,
+      "deaths": 9,
+      "recovered": 41,
+      "active": 166
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KGZ",
+      "twoLetterIsoCode": "KG",
+      "countryRegion": "Kyrgyzstan",
+      "latitude": 41.20438,
+      "longitude": 74.766098,
+      "population": 6524191,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Kirguistán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 430,
+      "deaths": 5,
+      "recovered": 71,
+      "active": 354
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KHM",
+      "twoLetterIsoCode": "KH",
+      "countryRegion": "Cambodia",
+      "latitude": 11.55,
+      "longitude": 104.9167,
+      "population": 16718971,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Camboya"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 122,
+      "deaths": 0,
+      "recovered": 91,
+      "active": 31
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KNA",
+      "twoLetterIsoCode": "KN",
+      "countryRegion": "Saint Kitts and Nevis",
+      "latitude": 17.357822,
+      "longitude": -62.782998,
+      "population": 53192,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "San Cristóbal y Nieves"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 14,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 14
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KOR",
+      "twoLetterIsoCode": "KR",
+      "countryRegion": "Korea, South",
+      "latitude": 35.907757,
+      "longitude": 127.766922,
+      "population": 51269183,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Corea del Sur"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 10564,
+      "deaths": 222,
+      "recovered": 7534,
+      "active": 2808
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "KWT",
+      "twoLetterIsoCode": "KW",
+      "countryRegion": "Kuwait",
+      "latitude": 29.31166,
+      "longitude": 47.481766,
+      "population": 4270563,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Kuwait"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1355,
+      "deaths": 3,
+      "recovered": 176,
+      "active": 1176
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LAO",
+      "twoLetterIsoCode": "LA",
+      "countryRegion": "Laos",
+      "latitude": 19.85627,
+      "longitude": 102.495496,
+      "population": 7275556,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Laos"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 19,
+      "deaths": 0,
+      "recovered": 1,
+      "active": 18
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LBN",
+      "twoLetterIsoCode": "LB",
+      "countryRegion": "Lebanon",
+      "latitude": 33.8547,
+      "longitude": 35.8623,
+      "population": 6825442,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Líbano"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 641,
+      "deaths": 21,
+      "recovered": 80,
+      "active": 540
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LBR",
+      "twoLetterIsoCode": "LR",
+      "countryRegion": "Liberia",
+      "latitude": 6.428055,
+      "longitude": -9.429499,
+      "population": 5057677,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Liberia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 59,
+      "deaths": 6,
+      "recovered": 4,
+      "active": 49
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LBY",
+      "twoLetterIsoCode": "LY",
+      "countryRegion": "Libya",
+      "latitude": 26.3351,
+      "longitude": 17.228331,
+      "population": 6871287,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Libia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 35,
+      "deaths": 1,
+      "recovered": 9,
+      "active": 25
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LCA",
+      "twoLetterIsoCode": "LC",
+      "countryRegion": "Saint Lucia",
+      "latitude": 13.9094,
+      "longitude": -60.9789,
+      "population": 183629,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Santa Lucía"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 15,
+      "deaths": 0,
+      "recovered": 11,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LIE",
+      "twoLetterIsoCode": "LI",
+      "countryRegion": "Liechtenstein",
+      "latitude": 47.14,
+      "longitude": 9.55,
+      "population": 38137,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Liechtenstein"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 79,
+      "deaths": 1,
+      "recovered": 55,
+      "active": 23
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LKA",
+      "twoLetterIsoCode": "LK",
+      "countryRegion": "Sri Lanka",
+      "latitude": 7.873054,
+      "longitude": 80.771797,
+      "population": 21413250,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Sri Lanka"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 233,
+      "deaths": 7,
+      "recovered": 61,
+      "active": 165
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LTU",
+      "twoLetterIsoCode": "LT",
+      "countryRegion": "Lithuania",
+      "latitude": 55.1694,
+      "longitude": 23.8813,
+      "population": 2722291,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Lituania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1070,
+      "deaths": 29,
+      "recovered": 101,
+      "active": 940
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LUX",
+      "twoLetterIsoCode": "LU",
+      "countryRegion": "Luxembourg",
+      "latitude": 49.8153,
+      "longitude": 6.1296,
+      "population": 625976,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Luxemburgo"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3307,
+      "deaths": 67,
+      "recovered": 500,
+      "active": 2740
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "LVA",
+      "twoLetterIsoCode": "LV",
+      "countryRegion": "Latvia",
+      "latitude": 56.8796,
+      "longitude": 24.6032,
+      "population": 1886202,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Letonia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 657,
+      "deaths": 5,
+      "recovered": 16,
+      "active": 636
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MAR",
+      "twoLetterIsoCode": "MA",
+      "countryRegion": "Morocco",
+      "latitude": 31.7917,
+      "longitude": -7.0926,
+      "population": 36910558,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Marruecos"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1888,
+      "deaths": 126,
+      "recovered": 217,
+      "active": 1545
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MCO",
+      "twoLetterIsoCode": "MC",
+      "countryRegion": "Monaco",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "population": 39244,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Mónaco"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 93,
+      "deaths": 1,
+      "recovered": 6,
+      "active": 86
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MDA",
+      "twoLetterIsoCode": "MD",
+      "countryRegion": "Moldova",
+      "latitude": 47.4116,
+      "longitude": 28.3699,
+      "population": 4033963,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Moldova"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1934,
+      "deaths": 40,
+      "recovered": 134,
+      "active": 1760
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MDG",
+      "twoLetterIsoCode": "MG",
+      "countryRegion": "Madagascar",
+      "latitude": -18.766947,
+      "longitude": 46.869107,
+      "population": 27691019,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Madagascar"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 108,
+      "deaths": 0,
+      "recovered": 23,
+      "active": 85
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MDV",
+      "twoLetterIsoCode": "MV",
+      "countryRegion": "Maldives",
+      "latitude": 3.2028,
+      "longitude": 73.2207,
+      "population": 540542,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Maldivas"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 20,
+      "deaths": 0,
+      "recovered": 16,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MEX",
+      "twoLetterIsoCode": "MX",
+      "countryRegion": "Mexico",
+      "latitude": 23.6345,
+      "longitude": -102.5528,
+      "population": 128932753,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "México"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 5014,
+      "deaths": 332,
+      "recovered": 1964,
+      "active": 2718
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MKD",
+      "twoLetterIsoCode": "MK",
+      "countryRegion": "North Macedonia",
+      "latitude": 41.6086,
+      "longitude": 21.7453,
+      "population": 2083380,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "ERY de Macedonia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 908,
+      "deaths": 44,
+      "recovered": 86,
+      "active": 778
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MLI",
+      "twoLetterIsoCode": "ML",
+      "countryRegion": "Mali",
+      "latitude": 17.570692,
+      "longitude": -3.996166,
+      "population": 20250834,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Malí"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 144,
+      "deaths": 13,
+      "recovered": 34,
+      "active": 97
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MLT",
+      "twoLetterIsoCode": "MT",
+      "countryRegion": "Malta",
+      "latitude": 35.9375,
+      "longitude": 14.3754,
+      "population": 441539,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Malta"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 393,
+      "deaths": 3,
+      "recovered": 44,
+      "active": 346
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MMR",
+      "twoLetterIsoCode": "MM",
+      "countryRegion": "Burma",
+      "latitude": 21.9162,
+      "longitude": 95.956,
+      "population": 54409794,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Myanmar"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 63,
+      "deaths": 4,
+      "recovered": 2,
+      "active": 57
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MNE",
+      "twoLetterIsoCode": "ME",
+      "countryRegion": "Montenegro",
+      "latitude": 42.708678,
+      "longitude": 19.37439,
+      "population": 628062,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Montenegro"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 283,
+      "deaths": 4,
+      "recovered": 46,
+      "active": 233
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MNG",
+      "twoLetterIsoCode": "MN",
+      "countryRegion": "Mongolia",
+      "latitude": 46.8625,
+      "longitude": 103.8467,
+      "population": 3278292,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Mongolia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 30,
+      "deaths": 0,
+      "recovered": 5,
+      "active": 25
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MOZ",
+      "twoLetterIsoCode": "MZ",
+      "countryRegion": "Mozambique",
+      "latitude": -18.665695,
+      "longitude": 35.529562,
+      "population": 31255435,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Mozambique"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 28,
+      "deaths": 0,
+      "recovered": 2,
+      "active": 26
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MRT",
+      "twoLetterIsoCode": "MR",
+      "countryRegion": "Mauritania",
+      "latitude": 21.0079,
+      "longitude": -10.9408,
+      "population": 4649660,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Mauritania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 7,
+      "deaths": 1,
+      "recovered": 2,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MSZ",
+      "twoLetterIsoCode": "",
+      "countryRegion": "MS Zaandam",
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "population": null,
+      "cultureNames": []
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 9,
+      "deaths": 2,
+      "recovered": 0,
+      "active": 7
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MUS",
+      "twoLetterIsoCode": "MU",
+      "countryRegion": "Mauritius",
+      "latitude": -20.348404,
+      "longitude": 57.552152,
+      "population": 1271767,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Mauricio"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 324,
+      "deaths": 9,
+      "recovered": 51,
+      "active": 264
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MWI",
+      "twoLetterIsoCode": "MW",
+      "countryRegion": "Malawi",
+      "latitude": -13.2543,
+      "longitude": 34.3015,
+      "population": 19129955,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Malawi"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 16,
+      "deaths": 2,
+      "recovered": 0,
+      "active": 14
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "MYS",
+      "twoLetterIsoCode": "MY",
+      "countryRegion": "Malaysia",
+      "latitude": 4.210484,
+      "longitude": 101.975766,
+      "population": 32365998,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Malasia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 4987,
+      "deaths": 82,
+      "recovered": 2478,
+      "active": 2427
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NAM",
+      "twoLetterIsoCode": "NA",
+      "countryRegion": "Namibia",
+      "latitude": -22.9576,
+      "longitude": 18.4904,
+      "population": 2540916,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Namibia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 3,
+      "active": 13
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NER",
+      "twoLetterIsoCode": "NE",
+      "countryRegion": "Niger",
+      "latitude": 17.607789,
+      "longitude": 8.081666,
+      "population": 24206636,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Níger"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 570,
+      "deaths": 14,
+      "recovered": 90,
+      "active": 466
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NGA",
+      "twoLetterIsoCode": "NG",
+      "countryRegion": "Nigeria",
+      "latitude": 9.082,
+      "longitude": 8.6753,
+      "population": 206139587,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Nigeria"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 373,
+      "deaths": 11,
+      "recovered": 99,
+      "active": 263
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NIC",
+      "twoLetterIsoCode": "NI",
+      "countryRegion": "Nicaragua",
+      "latitude": 12.865416,
+      "longitude": -85.207229,
+      "population": 6624554,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Nicaragua"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 9,
+      "deaths": 1,
+      "recovered": 4,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NLD",
+      "twoLetterIsoCode": "NL",
+      "countryRegion": "Netherlands",
+      "latitude": 52.1326,
+      "longitude": 5.2913,
+      "population": 17134873,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Países Bajos"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 27580,
+      "deaths": 2955,
+      "recovered": 297,
+      "active": 24328
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NOR",
+      "twoLetterIsoCode": "NO",
+      "countryRegion": "Norway",
+      "latitude": 60.472,
+      "longitude": 8.4689,
+      "population": 5421242,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Noruega"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6623,
+      "deaths": 139,
+      "recovered": 32,
+      "active": 6452
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NPL",
+      "twoLetterIsoCode": "NP",
+      "countryRegion": "Nepal",
+      "latitude": 28.1667,
+      "longitude": 84.25,
+      "population": 29136808,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Nepal"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 16,
+      "deaths": 0,
+      "recovered": 1,
+      "active": 15
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "NZL",
+      "twoLetterIsoCode": "NZ",
+      "countryRegion": "New Zealand",
+      "latitude": -40.9006,
+      "longitude": 174.886,
+      "population": 4822233,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Nueva Zelanda"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1366,
+      "deaths": 9,
+      "recovered": 628,
+      "active": 729
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "OMN",
+      "twoLetterIsoCode": "OM",
+      "countryRegion": "Oman",
+      "latitude": 21.512583,
+      "longitude": 55.923255,
+      "population": 5106622,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Omán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 813,
+      "deaths": 4,
+      "recovered": 130,
+      "active": 679
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PAK",
+      "twoLetterIsoCode": "PK",
+      "countryRegion": "Pakistan",
+      "latitude": 30.3753,
+      "longitude": 69.3451,
+      "population": 220892331,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Pakistán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 5837,
+      "deaths": 96,
+      "recovered": 1378,
+      "active": 4363
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PAN",
+      "twoLetterIsoCode": "PA",
+      "countryRegion": "Panama",
+      "latitude": 8.538,
+      "longitude": -80.7821,
+      "population": 4314768,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Panamá"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3472,
+      "deaths": 94,
+      "recovered": 61,
+      "active": 3317
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PER",
+      "twoLetterIsoCode": "PE",
+      "countryRegion": "Peru",
+      "latitude": -9.19,
+      "longitude": -75.0152,
+      "population": 32971846,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Perú"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 10303,
+      "deaths": 230,
+      "recovered": 2869,
+      "active": 7204
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PHL",
+      "twoLetterIsoCode": "PH",
+      "countryRegion": "Philippines",
+      "latitude": 12.879721,
+      "longitude": 121.774017,
+      "population": 109581085,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Filipinas"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 5223,
+      "deaths": 335,
+      "recovered": 295,
+      "active": 4593
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PNG",
+      "twoLetterIsoCode": "PG",
+      "countryRegion": "Papua New Guinea",
+      "latitude": -6.314993,
+      "longitude": 143.95555,
+      "population": 8947027,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Papúa Nueva Guinea"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 2
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "POL",
+      "twoLetterIsoCode": "PL",
+      "countryRegion": "Poland",
+      "latitude": 51.9194,
+      "longitude": 19.1451,
+      "population": 37846605,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Polonia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 7202,
+      "deaths": 263,
+      "recovered": 618,
+      "active": 6321
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PRT",
+      "twoLetterIsoCode": "PT",
+      "countryRegion": "Portugal",
+      "latitude": 39.3999,
+      "longitude": -8.2245,
+      "population": 10196707,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Portugal"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 17448,
+      "deaths": 567,
+      "recovered": 347,
+      "active": 16534
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PRY",
+      "twoLetterIsoCode": "PY",
+      "countryRegion": "Paraguay",
+      "latitude": -23.4425,
+      "longitude": -58.4438,
+      "population": 7132530,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Paraguay"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 159,
+      "deaths": 7,
+      "recovered": 22,
+      "active": 130
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "PSE",
+      "twoLetterIsoCode": "PS",
+      "countryRegion": "West Bank and Gaza",
+      "latitude": 31.9522,
+      "longitude": 35.2332,
+      "population": 5101416,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Autoridad Palestina"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 308,
+      "deaths": 2,
+      "recovered": 62,
+      "active": 244
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "QAT",
+      "twoLetterIsoCode": "QA",
+      "countryRegion": "Qatar",
+      "latitude": 25.3548,
+      "longitude": 51.1839,
+      "population": 2881060,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Qatar"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3428,
+      "deaths": 7,
+      "recovered": 373,
+      "active": 3048
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ROU",
+      "twoLetterIsoCode": "RO",
+      "countryRegion": "Romania",
+      "latitude": 45.9432,
+      "longitude": 24.9668,
+      "population": 19237682,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Rumania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6879,
+      "deaths": 351,
+      "recovered": 1051,
+      "active": 5477
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "RUS",
+      "twoLetterIsoCode": "RU",
+      "countryRegion": "Russia",
+      "latitude": 61.52401,
+      "longitude": 105.318756,
+      "population": 145934460,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Rusia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 21102,
+      "deaths": 170,
+      "recovered": 1694,
+      "active": 19238
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "RWA",
+      "twoLetterIsoCode": "RW",
+      "countryRegion": "Rwanda",
+      "latitude": -1.9403,
+      "longitude": 29.8739,
+      "population": 12952209,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Ruanda"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 134,
+      "deaths": 0,
+      "recovered": 49,
+      "active": 85
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SAU",
+      "twoLetterIsoCode": "SA",
+      "countryRegion": "Saudi Arabia",
+      "latitude": 23.885942,
+      "longitude": 45.079162,
+      "population": 34813867,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Arabia Saudí"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 5369,
+      "deaths": 73,
+      "recovered": 889,
+      "active": 4407
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SDN",
+      "twoLetterIsoCode": "SD",
+      "countryRegion": "Sudan",
+      "latitude": 12.8628,
+      "longitude": 30.2176,
+      "population": 43849269,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Sudán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 32,
+      "deaths": 5,
+      "recovered": 4,
+      "active": 23
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SEN",
+      "twoLetterIsoCode": "SN",
+      "countryRegion": "Senegal",
+      "latitude": 14.4974,
+      "longitude": -14.4524,
+      "population": 16743930,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Senegal"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 299,
+      "deaths": 2,
+      "recovered": 183,
+      "active": 114
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SGP",
+      "twoLetterIsoCode": "SG",
+      "countryRegion": "Singapore",
+      "latitude": 1.2833,
+      "longitude": 103.8333,
+      "population": 5850343,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Singapur"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3252,
+      "deaths": 10,
+      "recovered": 611,
+      "active": 2631
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SLE",
+      "twoLetterIsoCode": "SL",
+      "countryRegion": "Sierra Leone",
+      "latitude": 8.460555,
+      "longitude": -11.779889,
+      "population": 7976985,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Sierra Leona"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 11
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SLV",
+      "twoLetterIsoCode": "SV",
+      "countryRegion": "El Salvador",
+      "latitude": 13.7942,
+      "longitude": -88.8965,
+      "population": 6486201,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "El Salvador"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 149,
+      "deaths": 6,
+      "recovered": 25,
+      "active": 118
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SMR",
+      "twoLetterIsoCode": "SM",
+      "countryRegion": "San Marino",
+      "latitude": 43.9424,
+      "longitude": 12.4578,
+      "population": 33938,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "San Marino"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 371,
+      "deaths": 36,
+      "recovered": 53,
+      "active": 282
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SOM",
+      "twoLetterIsoCode": "SO",
+      "countryRegion": "Somalia",
+      "latitude": 5.152149,
+      "longitude": 46.199616,
+      "population": 15893219,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Somalia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 60,
+      "deaths": 2,
+      "recovered": 2,
+      "active": 56
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SRB",
+      "twoLetterIsoCode": "RS",
+      "countryRegion": "Serbia",
+      "latitude": 44.0165,
+      "longitude": 21.0059,
+      "population": 8737370,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Serbia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 4465,
+      "deaths": 94,
+      "recovered": 0,
+      "active": 4371
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SSD",
+      "twoLetterIsoCode": "SS",
+      "countryRegion": "South Sudan",
+      "latitude": 6.877,
+      "longitude": 31.307,
+      "population": 11193729,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Sudán del Sur"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "STP",
+      "twoLetterIsoCode": "ST",
+      "countryRegion": "Sao Tome and Principe",
+      "latitude": 0.1864,
+      "longitude": 6.6131,
+      "population": 219161,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Santo Tomé y Príncipe"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 4,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 4
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SUR",
+      "twoLetterIsoCode": "SR",
+      "countryRegion": "Suriname",
+      "latitude": 3.9193,
+      "longitude": -56.0278,
+      "population": 586634,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Surinam"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 10,
+      "deaths": 1,
+      "recovered": 6,
+      "active": 3
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SVK",
+      "twoLetterIsoCode": "SK",
+      "countryRegion": "Slovakia",
+      "latitude": 48.669,
+      "longitude": 19.699,
+      "population": 5459643,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Eslovaquia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 835,
+      "deaths": 2,
+      "recovered": 113,
+      "active": 720
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SVN",
+      "twoLetterIsoCode": "SI",
+      "countryRegion": "Slovenia",
+      "latitude": 46.1512,
+      "longitude": 14.9955,
+      "population": 2078932,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Eslovenia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1220,
+      "deaths": 56,
+      "recovered": 152,
+      "active": 1012
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SWE",
+      "twoLetterIsoCode": "SE",
+      "countryRegion": "Sweden",
+      "latitude": 60.128161,
+      "longitude": 18.643501,
+      "population": 10099270,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Suecia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11445,
+      "deaths": 1033,
+      "recovered": 381,
+      "active": 10031
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SWZ",
+      "twoLetterIsoCode": "SZ",
+      "countryRegion": "Eswatini",
+      "latitude": -26.5225,
+      "longitude": 31.4659,
+      "population": 1160164,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Suazilandia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 15,
+      "deaths": 0,
+      "recovered": 8,
+      "active": 7
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SYC",
+      "twoLetterIsoCode": "SC",
+      "countryRegion": "Seychelles",
+      "latitude": -4.6796,
+      "longitude": 55.492,
+      "population": 98340,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Seychelles"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 11,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 11
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "SYR",
+      "twoLetterIsoCode": "SY",
+      "countryRegion": "Syria",
+      "latitude": 34.802075,
+      "longitude": 38.996815,
+      "population": 17500657,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Siria"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 29,
+      "deaths": 2,
+      "recovered": 5,
+      "active": 22
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TCD",
+      "twoLetterIsoCode": "TD",
+      "countryRegion": "Chad",
+      "latitude": 15.4542,
+      "longitude": 18.7322,
+      "population": 16425859,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Chad"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 23,
+      "deaths": 0,
+      "recovered": 2,
+      "active": 21
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TGO",
+      "twoLetterIsoCode": "TG",
+      "countryRegion": "Togo",
+      "latitude": 8.6195,
+      "longitude": 0.8248,
+      "population": 8278737,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Togo"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 77,
+      "deaths": 3,
+      "recovered": 32,
+      "active": 42
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "THA",
+      "twoLetterIsoCode": "TH",
+      "countryRegion": "Thailand",
+      "latitude": 15.870032,
+      "longitude": 100.992541,
+      "population": 69799978,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Tailandia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2613,
+      "deaths": 41,
+      "recovered": 1405,
+      "active": 1167
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TLS",
+      "twoLetterIsoCode": "TL",
+      "countryRegion": "Timor-Leste",
+      "latitude": -8.874217,
+      "longitude": 125.727539,
+      "population": 1318442,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Timor-Leste"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 6,
+      "deaths": 0,
+      "recovered": 1,
+      "active": 5
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TTO",
+      "twoLetterIsoCode": "TT",
+      "countryRegion": "Trinidad and Tobago",
+      "latitude": 10.6918,
+      "longitude": -61.2225,
+      "population": 1399491,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Trinidad y Tobago"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 113,
+      "deaths": 8,
+      "recovered": 17,
+      "active": 88
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TUN",
+      "twoLetterIsoCode": "TN",
+      "countryRegion": "Tunisia",
+      "latitude": 33.886917,
+      "longitude": 9.537499,
+      "population": 11818618,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Túnez"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 747,
+      "deaths": 34,
+      "recovered": 43,
+      "active": 670
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TUR",
+      "twoLetterIsoCode": "TR",
+      "countryRegion": "Turkey",
+      "latitude": 38.9637,
+      "longitude": 35.2433,
+      "population": 84339067,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Turquía"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 65111,
+      "deaths": 1403,
+      "recovered": 4799,
+      "active": 58909
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TWN",
+      "twoLetterIsoCode": "TW",
+      "countryRegion": "Taiwan*",
+      "latitude": 23.7,
+      "longitude": 121.0,
+      "population": 23816775,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Taiwán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T12:51:41",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 393,
+      "deaths": 6,
+      "recovered": 124,
+      "active": 263
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "TZA",
+      "twoLetterIsoCode": "TZ",
+      "countryRegion": "Tanzania",
+      "latitude": -6.369028,
+      "longitude": 34.888822,
+      "population": 59734213,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Tanzania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 53,
+      "deaths": 3,
+      "recovered": 7,
+      "active": 43
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "UGA",
+      "twoLetterIsoCode": "UG",
+      "countryRegion": "Uganda",
+      "latitude": 1.373333,
+      "longitude": 32.290275,
+      "population": 45741000,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Uganda"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 55,
+      "deaths": 0,
+      "recovered": 8,
+      "active": 47
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "UKR",
+      "twoLetterIsoCode": "UA",
+      "countryRegion": "Ukraine",
+      "latitude": 48.3794,
+      "longitude": 31.1656,
+      "population": 43733759,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Ucrania"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 3372,
+      "deaths": 98,
+      "recovered": 119,
+      "active": 3155
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "URY",
+      "twoLetterIsoCode": "UY",
+      "countryRegion": "Uruguay",
+      "latitude": -32.5228,
+      "longitude": -55.7658,
+      "population": 3473727,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Uruguay"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 483,
+      "deaths": 8,
+      "recovered": 248,
+      "active": 227
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "USA",
+      "twoLetterIsoCode": "US",
+      "countryRegion": "US",
+      "latitude": 40.0,
+      "longitude": -100.0,
+      "population": 329466283,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Estados Unidos"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:31",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 605193,
+      "deaths": 25757,
+      "recovered": 47763,
+      "active": 531673
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "UZB",
+      "twoLetterIsoCode": "UZ",
+      "countryRegion": "Uzbekistan",
+      "latitude": 41.377491,
+      "longitude": 64.585262,
+      "population": 33469199,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Uzbekistán"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1165,
+      "deaths": 4,
+      "recovered": 99,
+      "active": 1062
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "VAT",
+      "twoLetterIsoCode": "VA",
+      "countryRegion": "Holy See",
+      "latitude": 41.9029,
+      "longitude": 12.4534,
+      "population": 809,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Ciudad del Vaticano"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 8,
+      "deaths": 0,
+      "recovered": 2,
+      "active": 6
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "VCT",
+      "twoLetterIsoCode": "VC",
+      "countryRegion": "Saint Vincent and the Grenadines",
+      "latitude": 12.9843,
+      "longitude": -61.2872,
+      "population": 110947,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "San Vicente y las Granadinas"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": 1,
+      "active": 11
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "VEN",
+      "twoLetterIsoCode": "VE",
+      "countryRegion": "Venezuela",
+      "latitude": 6.4238,
+      "longitude": -66.5897,
+      "population": 28435943,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Venezuela"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 189,
+      "deaths": 9,
+      "recovered": 110,
+      "active": 70
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "VNM",
+      "twoLetterIsoCode": "VN",
+      "countryRegion": "Vietnam",
+      "latitude": 14.058324,
+      "longitude": 108.277199,
+      "population": 97338583,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Vietnam"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 266,
+      "deaths": 0,
+      "recovered": 169,
+      "active": 97
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "XKS",
+      "twoLetterIsoCode": "XK",
+      "countryRegion": "Kosovo",
+      "latitude": 42.602636,
+      "longitude": 20.902977,
+      "population": 1810366,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Kosovo"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 387,
+      "deaths": 8,
+      "recovered": 66,
+      "active": 313
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "YEM",
+      "twoLetterIsoCode": "YE",
+      "countryRegion": "Yemen",
+      "latitude": 15.552727,
+      "longitude": 48.516388,
+      "population": 29825968,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Yemen"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 1
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ZAF",
+      "twoLetterIsoCode": "ZA",
+      "countryRegion": "South Africa",
+      "latitude": -30.5595,
+      "longitude": 22.9375,
+      "population": 59308690,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Sudáfrica"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 2415,
+      "deaths": 27,
+      "recovered": 410,
+      "active": 1978
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ZMB",
+      "twoLetterIsoCode": "ZM",
+      "countryRegion": "Zambia",
+      "latitude": -13.133897,
+      "longitude": 27.849332,
+      "population": 18383956,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Zambia"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 45,
+      "deaths": 2,
+      "recovered": 30,
+      "active": 13
+    }
+  },
+  {
+    "region": {
+      "threeLetterIsoCode": "ZWE",
+      "twoLetterIsoCode": "ZW",
+      "countryRegion": "Zimbabwe",
+      "latitude": -19.015438,
+      "longitude": 29.154857,
+      "population": 14862927,
+      "cultureNames": [
+        {
+          "culture": "es",
+          "name": "Zimbabue"
+        }
+      ]
+    },
+    "lastUpdate": "2020-04-14T23:33:12",
+    "dailyData": {
+      "date": "2020-04-14T00:00:00",
+      "confirmed": 17,
+      "deaths": 3,
+      "recovered": 0,
+      "active": 14
+    }
+  }
+]

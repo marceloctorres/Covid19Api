@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19Api", "Covid19Api\Covid19Api.csproj", "{0D988361-5892-4DB3-A768-C598040B77C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covid19Api", "Covid19Api\Covid19Api.csproj", "{0D988361-5892-4DB3-A768-C598040B77C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidApi19Console", "CovidApi19Console\CovidApi19Console.csproj", "{D6BA5DF6-CB59-41EE-96C9-3B67F17AB148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovidApi19Console", "CovidApi19Console\CovidApi19Console.csproj", "{D6BA5DF6-CB59-41EE-96C9-3B67F17AB148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarceloCTorres.CovidApi19.Core", "CovidApi19Core\MarceloCTorres.CovidApi19.Core.csproj", "{F3A67560-549F-4964-BA17-41EB8DF20578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarceloCTorres.CovidApi19.Core", "CovidApi19Core\MarceloCTorres.CovidApi19.Core.csproj", "{F3A67560-549F-4964-BA17-41EB8DF20578}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{FA3AE120-5AA1-4A58-94E1-81658E9345C2}"
+	ProjectSection(SolutionItems) = preProject
+		docs\index.md = docs\index.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
