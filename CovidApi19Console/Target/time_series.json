@@ -106207,10 +106207,10 @@
       },
       {
         "date": "2020-04-14T00:00:00",
-        "confirmed": 605193,
-        "deaths": 25757,
+        "confirmed": 607670,
+        "deaths": 25787,
         "recovered": 47763,
-        "active": 531673
+        "active": 534120
       }
     ]
   },

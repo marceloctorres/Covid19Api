@@ -22,10 +22,25 @@ namespace CovidApi19Console
 
     static string actualPath;
 
+    static void GetActualPath()
+    {
+#if DEBUG
+      var processDir = Directory.GetCurrentDirectory();
+      actualPath = Directory.GetParent(basePath).FullName;
+#else
+      actualPath = Directory.GetCurrentDirectory();
+#endif
+    }
+
     static void InitDirectories()
     {
       process.Configuration.SourceBasePath = Path.Combine(actualPath, "Sources");
       process.Configuration.TargetBasePath = Path.Combine(actualPath, "Target");
+
+      if(!Directory.Exists(process.Configuration.SourceBasePath))
+      {
+        Directory.CreateDirectory(process.Configuration.SourceBasePath);
+      }
 
       if(!Directory.Exists(process.Configuration.TargetBasePath))
       {
@@ -149,7 +164,9 @@ namespace CovidApi19Console
 
     static Configuration GetConfiguration()
     {
-      actualPath = Directory.GetParent(basePath).FullName;
+      GetActualPath();
+      Console.WriteLine(actualPath);
+
       configurationFilePath = Path.Combine(actualPath, configurationFileName);
       if(File.Exists(configurationFilePath))
       {
@@ -363,14 +380,23 @@ namespace CovidApi19Console
 
     static void Main(string[] args)
     {
-      Console.WriteLine(args);
+      try
+      {
+        process.Configuration = GetConfiguration();
+        InitDirectories();
 
-      process.Configuration = GetConfiguration();
-      InitDirectories();
+        RefreshRepo();
+        GetRepoFiles();
+        ProcessSourceFiles();
+      }
+      catch(Exception ex)
+      {
+        Console.WriteLine(ex.Message);
+        Console.WriteLine(ex.StackTrace);
+        Console.Write("Press any key? ");
+        Console.ReadKey();
+      }
 
-      RefreshRepo();
-      GetRepoFiles();
-      ProcessSourceFiles();
     }
   }
 }

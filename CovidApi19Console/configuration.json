@@ -15,7 +15,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_daily_reports",
       "sourceFileName": "daily_reports.csv",
       "targetFileName": "daily_reports.json",
-      "lastUpdate": "2020-04-14T19:17:38.5928709-05:00"
+      "lastUpdate": "2020-04-14T22:14:17.2016634-05:00"
     },
     {
       "sourceType": 2,
@@ -23,7 +23,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
       "sourceFileName": "time_series_confirmed.csv",
       "targetFileName": "time_series_full.json",
-      "lastUpdate": "2020-04-14T19:17:38.7678621-05:00"
+      "lastUpdate": "2020-04-14T22:14:17.278641-05:00"
     },
     {
       "sourceType": 3,
@@ -31,7 +31,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
       "sourceFileName": "time_series_deaths.csv",
       "targetFileName": "time_series_full.json",
-      "lastUpdate": "2020-04-14T19:17:38.7918767-05:00"
+      "lastUpdate": "2020-04-14T22:14:17.3286418-05:00"
     },
     {
       "sourceType": 4,
