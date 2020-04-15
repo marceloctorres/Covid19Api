@@ -1,0 +1,53 @@
+{
+  "repoBasePath": "C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\GitHub\\COVID-19",
+  "filesConfiguration": [
+    {
+      "sourceType": 0,
+      "repoFileName": "UID_ISO_FIPS_LookUp_Table.csv",
+      "repoRelativeFilePath": "csse_covid_19_data",
+      "sourceFileName": "countries.csv",
+      "targetFileName": "countries.json",
+      "lastUpdate": "2020-04-14T09:47:37.6702204-05:00"
+    },
+    {
+      "sourceType": 1,
+      "repoFileName": "",
+      "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_daily_reports",
+      "sourceFileName": "daily_reports.csv",
+      "targetFileName": "daily_reports.json",
+      "lastUpdate": "2020-04-14T19:17:38.5928709-05:00"
+    },
+    {
+      "sourceType": 2,
+      "repoFileName": "time_series_covid19_confirmed_global.csv",
+      "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
+      "sourceFileName": "time_series_confirmed.csv",
+      "targetFileName": "time_series_full.json",
+      "lastUpdate": "2020-04-14T19:17:38.7678621-05:00"
+    },
+    {
+      "sourceType": 3,
+      "repoFileName": "time_series_covid19_deaths_global.csv",
+      "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
+      "sourceFileName": "time_series_deaths.csv",
+      "targetFileName": "time_series_full.json",
+      "lastUpdate": "2020-04-14T19:17:38.7918767-05:00"
+    },
+    {
+      "sourceType": 4,
+      "repoFileName": "time_series_covid19_recovered_global.csv",
+      "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
+      "sourceFileName": "time_series_recovered.csv",
+      "targetFileName": "time_series_full.json",
+      "lastUpdate": "2020-04-14T19:17:38.8318622-05:00"
+    },
+    {
+      "sourceType": 5,
+      "repoFileName": null,
+      "repoRelativeFilePath": null,
+      "sourceFileName": "time_series_full.json",
+      "targetFileName": "time_series.json",
+      "lastUpdate": null
+    }
+  ]
+}
