@@ -32,7 +32,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
       "sourceFileName": "time_series_deaths.csv",
       "targetFileName": "time_series_full.json",
-      "lastUpdate": "2020-04-14T22:14:17.3286418-05:00"
+      "lastUpdate": "2020-04-14T23:35:38.2799914-05:00"
     },
     {
       "sourceType": 4,

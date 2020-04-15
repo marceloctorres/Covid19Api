@@ -414,17 +414,17 @@ namespace CovidApi19Console
         process.Configuration = GetConfiguration();
         InitDirectories();
 
-        PushRepo();
-        PublishFiles();
         RefreshRepo();
         GetRepoFiles();
         ProcessSourceFiles();
+        PublishFiles();
+        PushRepo();
       }
       catch(Exception ex)
       {
         Console.WriteLine(ex.Message);
         Console.WriteLine(ex.StackTrace);
-        Console.Write("Press any key? ");
+        Console.Write("Press any key...");
         Console.ReadKey();
       }
 
