@@ -18,6 +18,13 @@ namespace MarceloCTorres.CovidApi19.Core
     /// <summary>
     /// 
     /// </summary>
+    [JsonProperty("publishBasePath")]
+    public string PublishBasePath { get; set; }
+
+
+    /// <summary>
+    /// 
+    /// </summary>
     [JsonIgnore]
     public string SourceBasePath { get; set; }
 

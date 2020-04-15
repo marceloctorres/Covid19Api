@@ -4183,10 +4183,10 @@
     "lastUpdate": "2020-04-14T23:33:31",
     "dailyData": {
       "date": "2020-04-14T00:00:00",
-      "confirmed": 605193,
-      "deaths": 25757,
+      "confirmed": 607670,
+      "deaths": 25832,
       "recovered": 47763,
-      "active": 531673
+      "active": 534075
     }
   },
   {

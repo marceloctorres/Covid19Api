@@ -360,14 +360,43 @@ namespace CovidApi19Console
     /// </summary>
     static void RefreshRepo()
     {
-      string[] commands = new string[]
-      {
-        @"git pull upstream master"
-      };
-      var cmd = string.Join("\n", commands);
+      var cmd = @"git pull upstream master";
       var result = CommandOutput(cmd, process.Configuration.RepoBasePath);
       Console.WriteLine(cmd);
       Console.WriteLine(result);
+    }
+
+    static void PushRepo()
+    {
+      var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      string[] cmds = new string[]
+      {
+        $"git pull origin master",
+        $"git add .",
+        $"git commit -m \"{commitMessage}\"",
+        $"git push origin master"
+      };
+      foreach(var cmd in cmds)
+      {
+        var result = CommandOutput(cmd, process.Configuration.PublishBasePath);
+        Console.WriteLine(cmd);
+        Console.WriteLine(result);
+      }
+    }
+
+    static void PublishFiles()
+    {
+      var outputDir = Path.Combine(process.Configuration.PublishBasePath, "docs");
+      var inputDir = process.Configuration.TargetBasePath;
+
+      var files = Directory.GetFiles(inputDir);
+      foreach(var file in files)
+      {
+        var filename = Path.GetFileName(file);
+        var newFile = Path.Combine(outputDir, filename);
+        File.Copy(file, newFile, true);
+      }
+
     }
 
     static void ProcessSourceFiles()
@@ -385,6 +414,8 @@ namespace CovidApi19Console
         process.Configuration = GetConfiguration();
         InitDirectories();
 
+        PushRepo();
+        PublishFiles();
         RefreshRepo();
         GetRepoFiles();
         ProcessSourceFiles();
