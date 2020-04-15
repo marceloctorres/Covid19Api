@@ -6,6 +6,8 @@ using System.Text;
 
 using MarceloCTorres.CovidApi19.Core;
 
+using Microsoft.Extensions.Logging;
+
 namespace CovidApi19Console
 {
   class Program
@@ -56,10 +58,10 @@ namespace CovidApi19Console
 
       if(isCountriesUpdated || !File.Exists(targetPath))
       {
-        Console.WriteLine(sourcePath);
+        Trace.TraceInformation(sourcePath);
         process.ProcessCountries(sourcePath);
 
-        Console.WriteLine(targetPath);
+        Trace.TraceInformation(targetPath);
         process.WriteRegions(targetPath);
       }
     }
@@ -69,10 +71,13 @@ namespace CovidApi19Console
       var fileTypeConfiguration = process.FindFileTypeConfiguration(SourceTypes.Countries);
       var targetPath = Path.Combine(process.Configuration.TargetBasePath, fileTypeConfiguration.TargetFileName);
 
-      Console.WriteLine(targetPath);
+      Trace.TraceInformation(targetPath);
       process.ReadRegions(targetPath);
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
     static void ProcessDialyReports()
     {
       if(isDailyReporUptated)
@@ -86,10 +91,10 @@ namespace CovidApi19Console
           ReadCountries();
         }
 
-        Console.WriteLine(sourcePath);
+        Trace.TraceInformation(sourcePath);
         process.ProcessDailyReports(sourcePath);
 
-        Console.WriteLine(targetPath);
+        Trace.TraceInformation(targetPath);
         process.WriteDailyReports(targetPath);
       }
     }
@@ -106,7 +111,7 @@ namespace CovidApi19Console
       var fileTypeConfiguration = process.FindFileTypeConfiguration(SourceTypes.TimeSeriesConfirmed);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
 
-      Console.WriteLine(sourcePath);
+      Trace.TraceInformation(sourcePath);
       process.ProccessTimeSeriesData(sourcePath, process.UpdateConfirmed);
     }
 
@@ -122,7 +127,7 @@ namespace CovidApi19Console
       var fileTypeConfiguration = process.FindFileTypeConfiguration(SourceTypes.TimeSeriesDeaths);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
 
-      Console.WriteLine(sourcePath);
+      Trace.TraceInformation(sourcePath);
       process.ProccessTimeSeriesData(sourcePath, process.UpdateDeaths);
     }
 
@@ -138,7 +143,7 @@ namespace CovidApi19Console
       var fileTypeConfiguration = process.FindFileTypeConfiguration(SourceTypes.TimeSeriesRecovered);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
 
-      Console.WriteLine(sourcePath);
+      Trace.TraceInformation(sourcePath);
       process.ProccessTimeSeriesData(sourcePath, process.UpdateRecovered);
     }
 
@@ -157,7 +162,7 @@ namespace CovidApi19Console
         ProcessRecoveredTimeSeries();
         process.ConsolidateTimeSeries();
 
-        Console.WriteLine(targetPath);
+        Trace.TraceInformation(targetPath);
         process.WriteTimeSeriesData(targetPath);
       }
     }
@@ -165,7 +170,7 @@ namespace CovidApi19Console
     static Configuration GetConfiguration()
     {
       GetActualPath();
-      Console.WriteLine(actualPath);
+      Trace.TraceInformation(actualPath);
 
       configurationFilePath = Path.Combine(actualPath, configurationFileName);
       if(File.Exists(configurationFilePath))
@@ -330,8 +335,10 @@ namespace CovidApi19Console
           procStartInfo.WorkingDirectory = workingDirectory;
         }
 
-        Process proc = new Process();
-        proc.StartInfo = procStartInfo;
+        Process proc = new Process
+        {
+          StartInfo = procStartInfo
+        };
         proc.Start();
 
         StringBuilder sb = new StringBuilder();
@@ -362,8 +369,8 @@ namespace CovidApi19Console
     {
       var cmd = @"git pull upstream master";
       var result = CommandOutput(cmd, process.Configuration.RepoBasePath);
-      Console.WriteLine(cmd);
-      Console.WriteLine(result);
+      Trace.TraceInformation(cmd);
+      Trace.TraceInformation(result);
     }
 
     static void PushRepo()
@@ -379,8 +386,8 @@ namespace CovidApi19Console
       foreach(var cmd in cmds)
       {
         var result = CommandOutput(cmd, process.Configuration.PublishBasePath);
-        Console.WriteLine(cmd);
-        Console.WriteLine(result);
+        Trace.TraceInformation(cmd);
+        Trace.TraceInformation(result);
       }
     }
 
@@ -396,7 +403,6 @@ namespace CovidApi19Console
         var newFile = Path.Combine(outputDir, filename);
         File.Copy(file, newFile, true);
       }
-
     }
 
     static void ProcessSourceFiles()
@@ -406,11 +412,30 @@ namespace CovidApi19Console
       ProcessTimeSeriesData();
     }
 
+    static void InitTracing()
+    {
+      var textListener = new TextWriterTraceListener("covid19apiconsole.log", "text")
+      {
+        TraceOutputOptions = TraceOptions.DateTime 
+      };
 
+      var consoleListener = new ConsoleTraceListener(true)
+      {
+        Name = "console",
+        TraceOutputOptions = TraceOptions.DateTime 
+      };
+      Trace.Listeners.Add(textListener);
+      Trace.Listeners.Add(consoleListener);
+    }
     static void Main(string[] args)
     {
       try
       {
+        InitTracing();
+
+        Trace.TraceInformation("Iniciando ejecución");
+        Trace.Flush();
+
         process.Configuration = GetConfiguration();
         InitDirectories();
 
@@ -422,12 +447,14 @@ namespace CovidApi19Console
       }
       catch(Exception ex)
       {
-        Console.WriteLine(ex.Message);
-        Console.WriteLine(ex.StackTrace);
-        Console.Write("Press any key...");
-        Console.ReadKey();
+        Trace.TraceError(ex.Message);
+        Trace.TraceError(ex.StackTrace);
       }
-
+      finally
+      {
+        Trace.TraceInformation("Terminando ejecución");
+        Trace.Flush();
+      }
     }
   }
 }
