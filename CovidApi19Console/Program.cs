@@ -422,7 +422,7 @@ namespace CovidApi19Console
       var consoleListener = new ConsoleTraceListener(true)
       {
         Name = "console",
-        TraceOutputOptions = TraceOptions.DateTime 
+        TraceOutputOptions = TraceOptions.None
       };
       Trace.Listeners.Add(textListener);
       Trace.Listeners.Add(consoleListener);
