@@ -247,15 +247,16 @@ namespace CovidApi19Console
         Path.Combine(process.Configuration.RepoBasePath, fileTypeConfiguration.RepoRelativeFilePath) :
         Path.Combine(process.Configuration.RepoBasePath, fileTypeConfiguration.RepoRelativeFilePath, fileTypeConfiguration.RepoFileName);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
-      var fileNameToSearch = $"{DateTime.Today:MM-dd_yyyy}.csv";
+      var fileNameToSearch = $"{DateTime.Today:MM-dd-yyyy}.csv";
       Trace.TraceInformation(fileNameToSearch);
 
       if(findLast)
       {
         repoPath = Directory.GetFiles(repoPath)
                             .Where(f => f.EndsWith(".csv"))
-                            .OrderBy(f => File.GetLastWriteTime(f))
+                            .OrderBy(f => f)
                             .LastOrDefault();
+        Trace.TraceInformation(repoPath);
       }
       isUpdated = fileTypeConfiguration.LastUpdate != null ?
         File.GetLastWriteTime(repoPath) > fileTypeConfiguration.LastUpdate :
