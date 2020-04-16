@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>MarceloCTorres.CovidApi19.Core</AssemblyName>
-    <RootNamespace>MarceloCTorres.CovidApi19.Core</RootNamespace>
+    <AssemblyName>MarceloCTorres.Covid19Api.Core</AssemblyName>
+    <RootNamespace>MarceloCTorres.Covid19Api.Core</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

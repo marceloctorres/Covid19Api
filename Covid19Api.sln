@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covid19Api", "Covid19Api\Covid19Api.csproj", "{0D988361-5892-4DB3-A768-C598040B77C4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovidApi19Console", "CovidApi19Console\CovidApi19Console.csproj", "{D6BA5DF6-CB59-41EE-96C9-3B67F17AB148}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covid19ApiConsole", "CovidApi19Console\Covid19ApiConsole.csproj", "{D6BA5DF6-CB59-41EE-96C9-3B67F17AB148}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarceloCTorres.CovidApi19.Core", "CovidApi19Core\MarceloCTorres.CovidApi19.Core.csproj", "{F3A67560-549F-4964-BA17-41EB8DF20578}"
 EndProject
