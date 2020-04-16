@@ -247,11 +247,11 @@ namespace CovidApi19Console
         Path.Combine(process.Configuration.RepoBasePath, fileTypeConfiguration.RepoRelativeFilePath) :
         Path.Combine(process.Configuration.RepoBasePath, fileTypeConfiguration.RepoRelativeFilePath, fileTypeConfiguration.RepoFileName);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
-      var fileNameToSearch = $"{DateTime.Today:MM-dd-yyyy}.csv";
-      Trace.TraceInformation(fileNameToSearch);
 
       if(findLast)
       {
+        var fileNameToSearch = $"{DateTime.Today:MM-dd-yyyy}.csv";
+        Trace.TraceInformation(fileNameToSearch);
         repoPath = Directory.GetFiles(repoPath)
                             .Where(f => f.EndsWith(".csv"))
                             .OrderBy(f => f)
