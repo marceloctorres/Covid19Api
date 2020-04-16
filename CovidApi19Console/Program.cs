@@ -349,7 +349,7 @@ namespace CovidApi19Console
     /// </summary>
     private static void RefreshRepo()
     {
-      var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
       string[] cmds = new string[]
       {
         @"git pull upstream master",
@@ -370,7 +370,7 @@ namespace CovidApi19Console
     /// </summary>
     private static void PushRepo()
     {
-      var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
       string[] cmds = new string[]
       {
         $"git pull origin master",
