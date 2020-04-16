@@ -1,6 +1,7 @@
 [
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "AFG",
       "twoLetterIsoCode": "AF",
       "countryRegion": "Afghanistan",
@@ -613,7 +614,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "AGO",
       "twoLetterIsoCode": "AO",
       "countryRegion": "Angola",
@@ -1226,7 +1228,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ALB",
       "twoLetterIsoCode": "AL",
       "countryRegion": "Albania",
@@ -1839,7 +1842,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "AND",
       "twoLetterIsoCode": "AD",
       "countryRegion": "Andorra",
@@ -2452,7 +2456,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ARE",
       "twoLetterIsoCode": "AE",
       "countryRegion": "United Arab Emirates",
@@ -3065,7 +3070,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ARG",
       "twoLetterIsoCode": "AR",
       "countryRegion": "Argentina",
@@ -3678,7 +3684,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ARM",
       "twoLetterIsoCode": "AM",
       "countryRegion": "Armenia",
@@ -4291,7 +4298,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ATG",
       "twoLetterIsoCode": "AG",
       "countryRegion": "Antigua and Barbuda",
@@ -4904,7 +4912,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "AUS",
       "twoLetterIsoCode": "AU",
       "countryRegion": "Australia",
@@ -5517,7 +5526,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "AUT",
       "twoLetterIsoCode": "AT",
       "countryRegion": "Austria",
@@ -6130,7 +6140,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "AZE",
       "twoLetterIsoCode": "AZ",
       "countryRegion": "Azerbaijan",
@@ -6743,7 +6754,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BDI",
       "twoLetterIsoCode": "BI",
       "countryRegion": "Burundi",
@@ -7356,7 +7368,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BEL",
       "twoLetterIsoCode": "BE",
       "countryRegion": "Belgium",
@@ -7969,7 +7982,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BEN",
       "twoLetterIsoCode": "BJ",
       "countryRegion": "Benin",
@@ -8582,7 +8596,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BFA",
       "twoLetterIsoCode": "BF",
       "countryRegion": "Burkina Faso",
@@ -9195,7 +9210,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BGD",
       "twoLetterIsoCode": "BD",
       "countryRegion": "Bangladesh",
@@ -9808,7 +9824,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BGR",
       "twoLetterIsoCode": "BG",
       "countryRegion": "Bulgaria",
@@ -10421,7 +10438,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BHR",
       "twoLetterIsoCode": "BH",
       "countryRegion": "Bahrain",
@@ -11034,7 +11052,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BHS",
       "twoLetterIsoCode": "BS",
       "countryRegion": "Bahamas",
@@ -11647,7 +11666,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BIH",
       "twoLetterIsoCode": "BA",
       "countryRegion": "Bosnia and Herzegovina",
@@ -12260,7 +12280,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BLR",
       "twoLetterIsoCode": "BY",
       "countryRegion": "Belarus",
@@ -12873,7 +12894,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BLZ",
       "twoLetterIsoCode": "BZ",
       "countryRegion": "Belize",
@@ -13486,7 +13508,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BOL",
       "twoLetterIsoCode": "BO",
       "countryRegion": "Bolivia",
@@ -14099,7 +14122,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BRA",
       "twoLetterIsoCode": "BR",
       "countryRegion": "Brazil",
@@ -14712,7 +14736,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BRB",
       "twoLetterIsoCode": "BB",
       "countryRegion": "Barbados",
@@ -15325,7 +15350,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BRN",
       "twoLetterIsoCode": "BN",
       "countryRegion": "Brunei",
@@ -15938,7 +15964,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BTN",
       "twoLetterIsoCode": "BT",
       "countryRegion": "Bhutan",
@@ -16551,7 +16578,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "BWA",
       "twoLetterIsoCode": "BW",
       "countryRegion": "Botswana",
@@ -17164,7 +17192,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CAF",
       "twoLetterIsoCode": "CF",
       "countryRegion": "Central African Republic",
@@ -17777,7 +17806,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CAN",
       "twoLetterIsoCode": "CA",
       "countryRegion": "Canada",
@@ -18390,7 +18420,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CHE",
       "twoLetterIsoCode": "CH",
       "countryRegion": "Switzerland",
@@ -19003,7 +19034,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CHL",
       "twoLetterIsoCode": "CL",
       "countryRegion": "Chile",
@@ -19616,7 +19648,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CHN",
       "twoLetterIsoCode": "CN",
       "countryRegion": "China",
@@ -20229,7 +20262,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CIV",
       "twoLetterIsoCode": "CI",
       "countryRegion": "Cote d'Ivoire",
@@ -20842,7 +20876,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CMR",
       "twoLetterIsoCode": "CM",
       "countryRegion": "Cameroon",
@@ -21455,7 +21490,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "COD",
       "twoLetterIsoCode": "CD",
       "countryRegion": "Congo (Kinshasa)",
@@ -22068,7 +22104,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "COG",
       "twoLetterIsoCode": "CG",
       "countryRegion": "Congo (Brazzaville)",
@@ -22681,7 +22718,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "COL",
       "twoLetterIsoCode": "CO",
       "countryRegion": "Colombia",
@@ -23294,7 +23332,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CPV",
       "twoLetterIsoCode": "CV",
       "countryRegion": "Cabo Verde",
@@ -23907,7 +23946,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CRI",
       "twoLetterIsoCode": "CR",
       "countryRegion": "Costa Rica",
@@ -24520,7 +24560,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CUB",
       "twoLetterIsoCode": "CU",
       "countryRegion": "Cuba",
@@ -25133,7 +25174,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CYP",
       "twoLetterIsoCode": "CY",
       "countryRegion": "Cyprus",
@@ -25746,7 +25788,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "CZE",
       "twoLetterIsoCode": "CZ",
       "countryRegion": "Czechia",
@@ -26359,7 +26402,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DEU",
       "twoLetterIsoCode": "DE",
       "countryRegion": "Germany",
@@ -26972,7 +27016,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DJI",
       "twoLetterIsoCode": "DJ",
       "countryRegion": "Djibouti",
@@ -27585,7 +27630,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DMA",
       "twoLetterIsoCode": "DM",
       "countryRegion": "Dominica",
@@ -28198,7 +28244,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DNK",
       "twoLetterIsoCode": "DK",
       "countryRegion": "Denmark",
@@ -28811,7 +28858,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DOM",
       "twoLetterIsoCode": "DO",
       "countryRegion": "Dominican Republic",
@@ -29424,7 +29472,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DPS",
       "twoLetterIsoCode": "",
       "countryRegion": "Diamond Princess",
@@ -30032,7 +30081,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "DZA",
       "twoLetterIsoCode": "DZ",
       "countryRegion": "Algeria",
@@ -30645,7 +30695,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ECU",
       "twoLetterIsoCode": "EC",
       "countryRegion": "Ecuador",
@@ -31258,7 +31309,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "EGY",
       "twoLetterIsoCode": "EG",
       "countryRegion": "Egypt",
@@ -31871,7 +31923,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ERI",
       "twoLetterIsoCode": "ER",
       "countryRegion": "Eritrea",
@@ -32484,7 +32537,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ESH",
       "twoLetterIsoCode": "EH",
       "countryRegion": "Western Sahara",
@@ -33097,7 +33151,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ESP",
       "twoLetterIsoCode": "ES",
       "countryRegion": "Spain",
@@ -33710,7 +33765,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "EST",
       "twoLetterIsoCode": "EE",
       "countryRegion": "Estonia",
@@ -34323,7 +34379,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ETH",
       "twoLetterIsoCode": "ET",
       "countryRegion": "Ethiopia",
@@ -34936,7 +34993,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "FIN",
       "twoLetterIsoCode": "FI",
       "countryRegion": "Finland",
@@ -35549,7 +35607,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "FJI",
       "twoLetterIsoCode": "FJ",
       "countryRegion": "Fiji",
@@ -36162,7 +36221,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "FRA",
       "twoLetterIsoCode": "FR",
       "countryRegion": "France",
@@ -36775,7 +36835,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GAB",
       "twoLetterIsoCode": "GA",
       "countryRegion": "Gabon",
@@ -37388,7 +37449,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GBR",
       "twoLetterIsoCode": "GB",
       "countryRegion": "United Kingdom",
@@ -38001,7 +38063,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GEO",
       "twoLetterIsoCode": "GE",
       "countryRegion": "Georgia",
@@ -38614,7 +38677,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GHA",
       "twoLetterIsoCode": "GH",
       "countryRegion": "Ghana",
@@ -39227,7 +39291,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GIN",
       "twoLetterIsoCode": "GN",
       "countryRegion": "Guinea",
@@ -39840,7 +39905,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GMB",
       "twoLetterIsoCode": "GM",
       "countryRegion": "Gambia",
@@ -40453,7 +40519,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GNB",
       "twoLetterIsoCode": "GW",
       "countryRegion": "Guinea-Bissau",
@@ -41066,7 +41133,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GNQ",
       "twoLetterIsoCode": "GQ",
       "countryRegion": "Equatorial Guinea",
@@ -41679,7 +41747,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GRC",
       "twoLetterIsoCode": "GR",
       "countryRegion": "Greece",
@@ -42292,7 +42361,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GRD",
       "twoLetterIsoCode": "GD",
       "countryRegion": "Grenada",
@@ -42905,7 +42975,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GTM",
       "twoLetterIsoCode": "GT",
       "countryRegion": "Guatemala",
@@ -43518,7 +43589,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "GUY",
       "twoLetterIsoCode": "GY",
       "countryRegion": "Guyana",
@@ -44131,7 +44203,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "HND",
       "twoLetterIsoCode": "HN",
       "countryRegion": "Honduras",
@@ -44744,7 +44817,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "HRV",
       "twoLetterIsoCode": "HR",
       "countryRegion": "Croatia",
@@ -45357,7 +45431,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "HTI",
       "twoLetterIsoCode": "HT",
       "countryRegion": "Haiti",
@@ -45970,7 +46045,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "HUN",
       "twoLetterIsoCode": "HU",
       "countryRegion": "Hungary",
@@ -46583,7 +46659,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "IDN",
       "twoLetterIsoCode": "ID",
       "countryRegion": "Indonesia",
@@ -47196,7 +47273,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "IND",
       "twoLetterIsoCode": "IN",
       "countryRegion": "India",
@@ -47809,7 +47887,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "IRL",
       "twoLetterIsoCode": "IE",
       "countryRegion": "Ireland",
@@ -48422,7 +48501,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "IRN",
       "twoLetterIsoCode": "IR",
       "countryRegion": "Iran",
@@ -49035,7 +49115,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "IRQ",
       "twoLetterIsoCode": "IQ",
       "countryRegion": "Iraq",
@@ -49648,7 +49729,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ISL",
       "twoLetterIsoCode": "IS",
       "countryRegion": "Iceland",
@@ -50261,7 +50343,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ISR",
       "twoLetterIsoCode": "IL",
       "countryRegion": "Israel",
@@ -50874,7 +50957,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ITA",
       "twoLetterIsoCode": "IT",
       "countryRegion": "Italy",
@@ -51487,7 +51571,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "JAM",
       "twoLetterIsoCode": "JM",
       "countryRegion": "Jamaica",
@@ -52100,7 +52185,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "JOR",
       "twoLetterIsoCode": "JO",
       "countryRegion": "Jordan",
@@ -52713,7 +52799,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "JPN",
       "twoLetterIsoCode": "JP",
       "countryRegion": "Japan",
@@ -53326,7 +53413,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KAZ",
       "twoLetterIsoCode": "KZ",
       "countryRegion": "Kazakhstan",
@@ -53939,7 +54027,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KEN",
       "twoLetterIsoCode": "KE",
       "countryRegion": "Kenya",
@@ -54552,7 +54641,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KGZ",
       "twoLetterIsoCode": "KG",
       "countryRegion": "Kyrgyzstan",
@@ -55165,7 +55255,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KHM",
       "twoLetterIsoCode": "KH",
       "countryRegion": "Cambodia",
@@ -55778,7 +55869,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KNA",
       "twoLetterIsoCode": "KN",
       "countryRegion": "Saint Kitts and Nevis",
@@ -56391,7 +56483,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KOR",
       "twoLetterIsoCode": "KR",
       "countryRegion": "Korea, South",
@@ -57004,7 +57097,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "KWT",
       "twoLetterIsoCode": "KW",
       "countryRegion": "Kuwait",
@@ -57617,7 +57711,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LAO",
       "twoLetterIsoCode": "LA",
       "countryRegion": "Laos",
@@ -58230,7 +58325,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LBN",
       "twoLetterIsoCode": "LB",
       "countryRegion": "Lebanon",
@@ -58843,7 +58939,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LBR",
       "twoLetterIsoCode": "LR",
       "countryRegion": "Liberia",
@@ -59456,7 +59553,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LBY",
       "twoLetterIsoCode": "LY",
       "countryRegion": "Libya",
@@ -60069,7 +60167,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LCA",
       "twoLetterIsoCode": "LC",
       "countryRegion": "Saint Lucia",
@@ -60682,7 +60781,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LIE",
       "twoLetterIsoCode": "LI",
       "countryRegion": "Liechtenstein",
@@ -61295,7 +61395,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LKA",
       "twoLetterIsoCode": "LK",
       "countryRegion": "Sri Lanka",
@@ -61908,7 +62009,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LTU",
       "twoLetterIsoCode": "LT",
       "countryRegion": "Lithuania",
@@ -62521,7 +62623,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LUX",
       "twoLetterIsoCode": "LU",
       "countryRegion": "Luxembourg",
@@ -63134,7 +63237,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "LVA",
       "twoLetterIsoCode": "LV",
       "countryRegion": "Latvia",
@@ -63747,7 +63851,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MAR",
       "twoLetterIsoCode": "MA",
       "countryRegion": "Morocco",
@@ -64360,7 +64465,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MCO",
       "twoLetterIsoCode": "MC",
       "countryRegion": "Monaco",
@@ -64973,7 +65079,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MDA",
       "twoLetterIsoCode": "MD",
       "countryRegion": "Moldova",
@@ -65586,7 +65693,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MDG",
       "twoLetterIsoCode": "MG",
       "countryRegion": "Madagascar",
@@ -66199,7 +66307,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MDV",
       "twoLetterIsoCode": "MV",
       "countryRegion": "Maldives",
@@ -66812,7 +66921,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MEX",
       "twoLetterIsoCode": "MX",
       "countryRegion": "Mexico",
@@ -67425,7 +67535,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MKD",
       "twoLetterIsoCode": "MK",
       "countryRegion": "North Macedonia",
@@ -68038,7 +68149,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MLI",
       "twoLetterIsoCode": "ML",
       "countryRegion": "Mali",
@@ -68651,7 +68763,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MLT",
       "twoLetterIsoCode": "MT",
       "countryRegion": "Malta",
@@ -69264,7 +69377,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MMR",
       "twoLetterIsoCode": "MM",
       "countryRegion": "Burma",
@@ -69877,7 +69991,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MNE",
       "twoLetterIsoCode": "ME",
       "countryRegion": "Montenegro",
@@ -70490,7 +70605,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MNG",
       "twoLetterIsoCode": "MN",
       "countryRegion": "Mongolia",
@@ -71103,7 +71219,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MOZ",
       "twoLetterIsoCode": "MZ",
       "countryRegion": "Mozambique",
@@ -71716,7 +71833,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MRT",
       "twoLetterIsoCode": "MR",
       "countryRegion": "Mauritania",
@@ -72329,7 +72447,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MSZ",
       "twoLetterIsoCode": "",
       "countryRegion": "MS Zaandam",
@@ -72937,7 +73056,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MUS",
       "twoLetterIsoCode": "MU",
       "countryRegion": "Mauritius",
@@ -73550,7 +73670,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MWI",
       "twoLetterIsoCode": "MW",
       "countryRegion": "Malawi",
@@ -74163,7 +74284,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "MYS",
       "twoLetterIsoCode": "MY",
       "countryRegion": "Malaysia",
@@ -74776,7 +74898,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NAM",
       "twoLetterIsoCode": "NA",
       "countryRegion": "Namibia",
@@ -75389,7 +75512,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NER",
       "twoLetterIsoCode": "NE",
       "countryRegion": "Niger",
@@ -76002,7 +76126,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NGA",
       "twoLetterIsoCode": "NG",
       "countryRegion": "Nigeria",
@@ -76615,7 +76740,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NIC",
       "twoLetterIsoCode": "NI",
       "countryRegion": "Nicaragua",
@@ -77228,7 +77354,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NLD",
       "twoLetterIsoCode": "NL",
       "countryRegion": "Netherlands",
@@ -77841,7 +77968,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NOR",
       "twoLetterIsoCode": "NO",
       "countryRegion": "Norway",
@@ -78454,7 +78582,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NPL",
       "twoLetterIsoCode": "NP",
       "countryRegion": "Nepal",
@@ -79067,7 +79196,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "NZL",
       "twoLetterIsoCode": "NZ",
       "countryRegion": "New Zealand",
@@ -79680,7 +79810,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "OMN",
       "twoLetterIsoCode": "OM",
       "countryRegion": "Oman",
@@ -80293,7 +80424,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PAK",
       "twoLetterIsoCode": "PK",
       "countryRegion": "Pakistan",
@@ -80906,7 +81038,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PAN",
       "twoLetterIsoCode": "PA",
       "countryRegion": "Panama",
@@ -81519,7 +81652,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PER",
       "twoLetterIsoCode": "PE",
       "countryRegion": "Peru",
@@ -82132,7 +82266,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PHL",
       "twoLetterIsoCode": "PH",
       "countryRegion": "Philippines",
@@ -82745,7 +82880,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PNG",
       "twoLetterIsoCode": "PG",
       "countryRegion": "Papua New Guinea",
@@ -83358,7 +83494,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "POL",
       "twoLetterIsoCode": "PL",
       "countryRegion": "Poland",
@@ -83971,7 +84108,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PRT",
       "twoLetterIsoCode": "PT",
       "countryRegion": "Portugal",
@@ -84584,7 +84722,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PRY",
       "twoLetterIsoCode": "PY",
       "countryRegion": "Paraguay",
@@ -85197,7 +85336,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "PSE",
       "twoLetterIsoCode": "PS",
       "countryRegion": "West Bank and Gaza",
@@ -85810,7 +85950,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "QAT",
       "twoLetterIsoCode": "QA",
       "countryRegion": "Qatar",
@@ -86423,7 +86564,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ROU",
       "twoLetterIsoCode": "RO",
       "countryRegion": "Romania",
@@ -87036,7 +87178,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "RUS",
       "twoLetterIsoCode": "RU",
       "countryRegion": "Russia",
@@ -87649,7 +87792,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "RWA",
       "twoLetterIsoCode": "RW",
       "countryRegion": "Rwanda",
@@ -88262,7 +88406,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SAU",
       "twoLetterIsoCode": "SA",
       "countryRegion": "Saudi Arabia",
@@ -88875,7 +89020,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SDN",
       "twoLetterIsoCode": "SD",
       "countryRegion": "Sudan",
@@ -89488,7 +89634,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SEN",
       "twoLetterIsoCode": "SN",
       "countryRegion": "Senegal",
@@ -90101,7 +90248,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SGP",
       "twoLetterIsoCode": "SG",
       "countryRegion": "Singapore",
@@ -90714,7 +90862,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SLE",
       "twoLetterIsoCode": "SL",
       "countryRegion": "Sierra Leone",
@@ -91327,7 +91476,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SLV",
       "twoLetterIsoCode": "SV",
       "countryRegion": "El Salvador",
@@ -91940,7 +92090,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SMR",
       "twoLetterIsoCode": "SM",
       "countryRegion": "San Marino",
@@ -92553,7 +92704,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SOM",
       "twoLetterIsoCode": "SO",
       "countryRegion": "Somalia",
@@ -93166,7 +93318,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SRB",
       "twoLetterIsoCode": "RS",
       "countryRegion": "Serbia",
@@ -93779,7 +93932,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SSD",
       "twoLetterIsoCode": "SS",
       "countryRegion": "South Sudan",
@@ -94392,7 +94546,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "STP",
       "twoLetterIsoCode": "ST",
       "countryRegion": "Sao Tome and Principe",
@@ -95005,7 +95160,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SUR",
       "twoLetterIsoCode": "SR",
       "countryRegion": "Suriname",
@@ -95618,7 +95774,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SVK",
       "twoLetterIsoCode": "SK",
       "countryRegion": "Slovakia",
@@ -96231,7 +96388,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SVN",
       "twoLetterIsoCode": "SI",
       "countryRegion": "Slovenia",
@@ -96844,7 +97002,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SWE",
       "twoLetterIsoCode": "SE",
       "countryRegion": "Sweden",
@@ -97457,7 +97616,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SWZ",
       "twoLetterIsoCode": "SZ",
       "countryRegion": "Eswatini",
@@ -98070,7 +98230,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SYC",
       "twoLetterIsoCode": "SC",
       "countryRegion": "Seychelles",
@@ -98683,7 +98844,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "SYR",
       "twoLetterIsoCode": "SY",
       "countryRegion": "Syria",
@@ -99296,7 +99458,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TCD",
       "twoLetterIsoCode": "TD",
       "countryRegion": "Chad",
@@ -99909,7 +100072,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TGO",
       "twoLetterIsoCode": "TG",
       "countryRegion": "Togo",
@@ -100522,7 +100686,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "THA",
       "twoLetterIsoCode": "TH",
       "countryRegion": "Thailand",
@@ -101135,7 +101300,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TLS",
       "twoLetterIsoCode": "TL",
       "countryRegion": "Timor-Leste",
@@ -101748,7 +101914,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TTO",
       "twoLetterIsoCode": "TT",
       "countryRegion": "Trinidad and Tobago",
@@ -102361,7 +102528,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TUN",
       "twoLetterIsoCode": "TN",
       "countryRegion": "Tunisia",
@@ -102974,7 +103142,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TUR",
       "twoLetterIsoCode": "TR",
       "countryRegion": "Turkey",
@@ -103587,7 +103756,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TWN",
       "twoLetterIsoCode": "TW",
       "countryRegion": "Taiwan*",
@@ -104200,7 +104370,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "TZA",
       "twoLetterIsoCode": "TZ",
       "countryRegion": "Tanzania",
@@ -104813,7 +104984,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "UGA",
       "twoLetterIsoCode": "UG",
       "countryRegion": "Uganda",
@@ -105426,7 +105598,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "UKR",
       "twoLetterIsoCode": "UA",
       "countryRegion": "Ukraine",
@@ -106039,7 +106212,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "URY",
       "twoLetterIsoCode": "UY",
       "countryRegion": "Uruguay",
@@ -106652,7 +106826,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "USA",
       "twoLetterIsoCode": "US",
       "countryRegion": "US",
@@ -107265,7 +107440,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "UZB",
       "twoLetterIsoCode": "UZ",
       "countryRegion": "Uzbekistan",
@@ -107878,7 +108054,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "VAT",
       "twoLetterIsoCode": "VA",
       "countryRegion": "Holy See",
@@ -108491,7 +108668,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "VCT",
       "twoLetterIsoCode": "VC",
       "countryRegion": "Saint Vincent and the Grenadines",
@@ -109104,7 +109282,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "VEN",
       "twoLetterIsoCode": "VE",
       "countryRegion": "Venezuela",
@@ -109717,7 +109896,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "VNM",
       "twoLetterIsoCode": "VN",
       "countryRegion": "Vietnam",
@@ -110330,7 +110510,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "XKS",
       "twoLetterIsoCode": "XK",
       "countryRegion": "Kosovo",
@@ -110943,7 +111124,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "YEM",
       "twoLetterIsoCode": "YE",
       "countryRegion": "Yemen",
@@ -111556,7 +111738,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ZAF",
       "twoLetterIsoCode": "ZA",
       "countryRegion": "South Africa",
@@ -112169,7 +112352,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ZMB",
       "twoLetterIsoCode": "ZM",
       "countryRegion": "Zambia",
@@ -112782,7 +112966,8 @@
     ]
   },
   {
-    "region": {
+    "provinceState": null,
+    "countryRegion": {
       "threeLetterIsoCode": "ZWE",
       "twoLetterIsoCode": "ZW",
       "countryRegion": "Zimbabwe",
