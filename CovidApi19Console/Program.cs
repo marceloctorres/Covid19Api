@@ -352,7 +352,6 @@ namespace CovidApi19Console
       var commitMessage = $"Protegido por Covid119ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
       string[] cmds = new string[]
       {
-        $"git pull origin master",
         @"git pull upstream master",
         $"git add .",
         $"git commit -m \"{commitMessage}\"",

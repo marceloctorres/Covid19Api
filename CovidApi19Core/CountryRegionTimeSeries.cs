@@ -9,13 +9,13 @@ namespace MarceloCTorres.CovidApi19.Core
     /// <summary>
     /// 
     /// </summary>
-    [JsonProperty("provinceState")]
+    [JsonIgnore]
     public string ProvinceState { get; set; }
 
     /// <summary>
     /// 
     /// </summary>
-    [JsonProperty("countryRegion")]
+    [JsonProperty("region")]
     public CountryRegion CountryRegion { get; set; }
 
     /// <summary>
