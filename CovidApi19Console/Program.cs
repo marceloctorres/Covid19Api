@@ -417,7 +417,7 @@ namespace CovidApi19Console
     {
       var textListener = new TextWriterTraceListener("covid19apiconsole.log", "text")
       {
-        TraceOutputOptions = TraceOptions.DateTime
+        TraceOutputOptions = TraceOptions.None
       };
 
       var consoleListener = new ConsoleTraceListener(true)
@@ -435,7 +435,8 @@ namespace CovidApi19Console
       {
         InitTracing();
 
-        Trace.TraceInformation("Iniciando ejecución");
+        Trace.TraceInformation("vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv");
+        Trace.TraceInformation($"Iniciando ejecución: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
         Trace.Flush();
 
         process.Configuration = GetConfiguration();
@@ -452,9 +453,10 @@ namespace CovidApi19Console
         Trace.TraceError(ex.Message);
         Trace.TraceError(ex.StackTrace);
       }
-      finally
-      {
-        Trace.TraceInformation("Terminando ejecución");
+      finally 
+      { 
+        Trace.TraceInformation($"Terminando ejecución: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
+        Trace.TraceInformation("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
         Trace.Flush();
       }
     }
