@@ -247,6 +247,8 @@ namespace CovidApi19Console
         Path.Combine(process.Configuration.RepoBasePath, fileTypeConfiguration.RepoRelativeFilePath) :
         Path.Combine(process.Configuration.RepoBasePath, fileTypeConfiguration.RepoRelativeFilePath, fileTypeConfiguration.RepoFileName);
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
+      var fileNameToSearch = $"{DateTime.Today:MM-dd_yyyy}.csv";
+      Trace.TraceInformation(fileNameToSearch);
 
       if(findLast)
       {

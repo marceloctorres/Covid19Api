@@ -107096,17 +107096,17 @@
       },
       {
         "date": "2020-03-23T00:00:00",
-        "confirmed": 43847,
+        "confirmed": 43843,
         "deaths": 557,
         "recovered": 178,
-        "active": 43112
+        "active": 43108
       },
       {
         "date": "2020-03-24T00:00:00",
-        "confirmed": 53740,
+        "confirmed": 53736,
         "deaths": 706,
         "recovered": 348,
-        "active": 52686
+        "active": 52682
       },
       {
         "date": "2020-03-25T00:00:00",
