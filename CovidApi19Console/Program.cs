@@ -368,8 +368,8 @@ namespace CovidApi19Console
     {
       foreach(var cmd in cmds)
       {
-        var result = CommandOutput(cmd, process.Configuration.PublishBasePath);
         Trace.TraceInformation(cmd);
+        var result = CommandOutput(cmd, process.Configuration.PublishBasePath);
         Trace.TraceInformation(result);
       }
     }
@@ -466,14 +466,14 @@ namespace CovidApi19Console
         Trace.Flush();
 
         process.Configuration = GetConfiguration();
-        InitDirectories();
 
+        InitDirectories();
         PullCSSERepo();
         GetRepoFiles();
         ProcessSourceFiles();
         PublishFiles();
         PushCovid19ApiRepo();
-        RunPythonScript();
+        UpdateArcGIS();
       }
       catch(Exception ex)
       {
