@@ -350,34 +350,22 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    private static void RefreshRepo()
+    private static void PullCSSERepo()
     {
-      var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      //var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
       string[] cmds = new string[]
       {
         @"git pull upstream master"
       };
-      foreach(var cmd in cmds)
-      {
-        var result = CommandOutput(cmd, process.Configuration.RepoBasePath);
-        Trace.TraceInformation(cmd);
-        Trace.TraceInformation(result);
-      }
+      RunCommandLine(cmds);
     }
 
     /// <summary>
     /// 
     /// </summary>
-    private static void PushRepo()
+    /// <param name="cmds"></param>
+    static void RunCommandLine(string[] cmds)
     {
-      var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
-      string[] cmds = new string[]
-      {
-        $"git pull origin master",
-        $"git add .",
-        $"git commit -m \"{commitMessage}\"",
-        $"git push origin master"
-      };
       foreach(var cmd in cmds)
       {
         var result = CommandOutput(cmd, process.Configuration.PublishBasePath);
@@ -389,7 +377,33 @@ namespace CovidApi19Console
     /// <summary>
     /// 
     /// </summary>
-    private static void PublishFiles()
+    private static void PushCovid19ApiRepo()
+    {
+      var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      string[] cmds = new string[]
+      {
+        $"git pull origin master",
+        $"git add .",
+        $"git commit -m \"{commitMessage}\"",
+        $"git push origin master"
+      };
+      RunCommandLine(cmds);
+
+    }
+
+    static void RunPythonScript()
+    {
+      string[] cmds = new string[]
+      {
+        $"c:\\Progra~1\\ArcGIS\\Pro\\bin\\Python\\scripts\\propy.bat \"C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\ArcGIS\\Projects\\MyProject\\covid19.py\""
+      };
+      RunCommandLine(cmds);
+    }
+
+  /// <summary>
+  /// 
+  /// </summary>
+  private static void PublishFiles()
     {
       var outputDir = Path.Combine(process.Configuration.PublishBasePath, "docs");
       var inputDir = process.Configuration.TargetBasePath;
@@ -445,11 +459,12 @@ namespace CovidApi19Console
         process.Configuration = GetConfiguration();
         InitDirectories();
 
-        RefreshRepo();
+        PullCSSERepo();
         GetRepoFiles();
         ProcessSourceFiles();
         PublishFiles();
-        PushRepo();
+        PushCovid19ApiRepo();
+        RunPythonScript();
       }
       catch(Exception ex)
       {
