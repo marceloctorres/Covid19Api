@@ -357,19 +357,19 @@ namespace CovidApi19Console
       {
         @"git pull upstream master"
       };
-      RunCommandLine(cmds);
+      RunCommandLine(cmds, process.Configuration.RepoBasePath);
     }
 
     /// <summary>
     /// 
     /// </summary>
     /// <param name="cmds"></param>
-    static void RunCommandLine(string[] cmds)
+    static void RunCommandLine(string[] cmds, string workingDirectory = null)
     {
       foreach(var cmd in cmds)
       {
         Trace.TraceInformation(cmd);
-        var result = CommandOutput(cmd, process.Configuration.PublishBasePath);
+        var result = CommandOutput(cmd, workingDirectory);
         Trace.TraceInformation(result);
       }
     }
@@ -387,7 +387,7 @@ namespace CovidApi19Console
         $"git commit -m \"{commitMessage}\"",
         $"git push origin master"
       };
-      RunCommandLine(cmds);
+      RunCommandLine(cmds, process.Configuration.PublishBasePath);
 
     }
 
