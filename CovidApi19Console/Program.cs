@@ -473,7 +473,8 @@ namespace CovidApi19Console
         ProcessSourceFiles();
         PublishFiles();
         PushCovid19ApiRepo();
-        UpdateArcGIS();
+        RunPythonScript();
+        // UpdateArcGIS();
       }
       catch(Exception ex)
       {
