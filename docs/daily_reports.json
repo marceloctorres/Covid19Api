@@ -4184,9 +4184,9 @@
     "dailyData": {
       "date": "2020-04-16T00:00:00",
       "confirmed": 667801,
-      "deaths": 32917,
+      "deaths": 32916,
       "recovered": 54703,
-      "active": 580181
+      "active": 580182
     }
   },
   {
