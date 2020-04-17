@@ -391,6 +391,14 @@ namespace CovidApi19Console
 
     }
 
+    static void UpdateArcGIS()
+    {
+      if(isDailyReporUptated || isConfirmedTimeSeriesUpdated ||  isDeathsTimeSeriesUpdated || isRecoveredTimeSeriesUpdated)
+      {
+        RunPythonScript();
+      }
+    }
+
     static void RunPythonScript()
     {
       //C:\Progra~1\ArcGIS\Pro\bin\Python\scripts\propy.bat "C:\Users\mtorres\OneDrive - Esri NOSA\Documentos\ArcGIS\Projects\MyProject\covid19.py"
