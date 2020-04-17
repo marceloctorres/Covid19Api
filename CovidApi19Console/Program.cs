@@ -370,7 +370,7 @@ namespace CovidApi19Console
       {
         Trace.TraceInformation(cmd);
         var result = CommandOutput(cmd, workingDirectory);
-        Trace.TraceInformation(result);
+        Trace.TraceInformation($"\n{result}");
       }
     }
 
@@ -395,7 +395,12 @@ namespace CovidApi19Console
     {
       if(isDailyReporUptated || isConfirmedTimeSeriesUpdated ||  isDeathsTimeSeriesUpdated || isRecoveredTimeSeriesUpdated)
       {
+        Trace.TraceInformation("Se actualizará ArcGIS.");
         RunPythonScript();
+      }
+      else
+      {
+        Trace.TraceInformation("No se actualizará ArcGIS.");
       }
     }
 
@@ -473,8 +478,7 @@ namespace CovidApi19Console
         ProcessSourceFiles();
         PublishFiles();
         PushCovid19ApiRepo();
-        RunPythonScript();
-        // UpdateArcGIS();
+        UpdateArcGIS();
       }
       catch(Exception ex)
       {
