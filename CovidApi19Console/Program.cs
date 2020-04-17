@@ -393,9 +393,10 @@ namespace CovidApi19Console
 
     static void RunPythonScript()
     {
+      //C:\Progra~1\ArcGIS\Pro\bin\Python\scripts\propy.bat "C:\Users\mtorres\OneDrive - Esri NOSA\Documentos\ArcGIS\Projects\MyProject\covid19.py"
       string[] cmds = new string[]
       {
-        $"c:\\Progra~1\\ArcGIS\\Pro\\bin\\Python\\scripts\\propy.bat \"C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\ArcGIS\\Projects\\MyProject\\covid19.py\""
+        $"C:\\Progra~1\\ArcGIS\\Pro\\bin\\Python\\scripts\\propy.bat \"C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\ArcGIS\\Projects\\MyProject\\covid19.py\""
       };
       RunCommandLine(cmds);
     }
