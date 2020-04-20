@@ -256,8 +256,8 @@ namespace CovidApi19Console
                             .Where(f => f.EndsWith(".csv"))
                             .OrderBy(f => f)
                             .LastOrDefault();
-        Trace.TraceInformation(repoPath);
       }
+      Trace.TraceInformation(repoPath);
       isUpdated = fileTypeConfiguration.LastUpdate != null ?
         File.GetLastWriteTime(repoPath) > fileTypeConfiguration.LastUpdate :
         true;
@@ -306,6 +306,12 @@ namespace CovidApi19Console
       GetRecoveredRepoFiles();
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="command"></param>
+    /// <param name="workingDirectory"></param>
+    /// <returns></returns>
     private static string CommandOutput(string command, string workingDirectory = null)
     {
       try
@@ -352,10 +358,15 @@ namespace CovidApi19Console
     /// </summary>
     private static void PullCSSERepo()
     {
-      //var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      Trace.TraceInformation($"WorkingDirectory: {process.Configuration.RepoBasePath}");
+
       string[] cmds = new string[]
       {
-        @"git pull upstream master"
+        "git pull upstream master",
+        "git add .",
+        $"git commit -m \"{commitMessage}\"",
+        "git push origin master"
       };
       RunCommandLine(cmds, process.Configuration.RepoBasePath);
     }
@@ -380,6 +391,8 @@ namespace CovidApi19Console
     private static void PushCovid19ApiRepo()
     {
       var commitMessage = $"Protegido por Covid19ApiConsole en '{DateTime.Now:yyyy-MM-dd HH:mm:ss}'";
+      Trace.TraceInformation($"WorkingDirectory: '{process.Configuration.PublishBasePath}'");
+
       string[] cmds = new string[]
       {
         $"git pull origin master",
