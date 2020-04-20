@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-using MarceloCTorres.CovidApi19.Core;
+using MarceloCTorres.Covid19Api.Core;
 
-namespace CovidApi19Console
+namespace Covid19ApiConsole
 {
   internal class Program
   {
@@ -363,6 +363,7 @@ namespace CovidApi19Console
 
       string[] cmds = new string[]
       {
+        "git pull origin master",
         "git pull upstream master",
         "git add .",
         $"git commit -m \"{commitMessage}\"",
@@ -435,6 +436,7 @@ namespace CovidApi19Console
       var outputDir = Path.Combine(process.Configuration.PublishBasePath, "docs");
       var inputDir = process.Configuration.TargetBasePath;
 
+      Trace.TraceInformation($"Copy files from {inputDir} to {outputDir}");
       var files = Directory.GetFiles(inputDir);
       foreach(var file in files)
       {

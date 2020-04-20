@@ -2,7 +2,7 @@
 
 using Newtonsoft.Json;
 
-namespace MarceloCTorres.CovidApi19.Core
+namespace MarceloCTorres.Covid19Api.Core
 {
   public class DailyReport
   {

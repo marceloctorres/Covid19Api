@@ -3,13 +3,16 @@ using System.IO;
 
 using Newtonsoft.Json;
 
-namespace MarceloCTorres.CovidApi19.Core
+namespace MarceloCTorres.Covid19Api.Core
 {
   /// <summary>
   /// 
   /// </summary>
   public class Configuration
   {
+
+    public string CondaPath { get; set; }
+
     /// <summary>
     /// 
     /// </summary>
