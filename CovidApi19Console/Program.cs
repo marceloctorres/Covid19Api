@@ -483,7 +483,7 @@ namespace Covid19ApiConsole
       {
         InitTracing();
 
-        Trace.TraceInformation("vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv");
+        Trace.TraceInformation("********************************************************");
         Trace.TraceInformation($"Iniciando ejecución: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
         Trace.Flush();
 
