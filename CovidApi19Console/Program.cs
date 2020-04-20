@@ -407,6 +407,7 @@ namespace Covid19ApiConsole
 
     static void UpdateArcGIS()
     {
+      Trace.TraceInformation($"{process.Configuration.PythonExecutionEnvPath} \"{process.Configuration.PythonScriptPath}\"");
       if(isDailyReporUptated || isConfirmedTimeSeriesUpdated ||  isDeathsTimeSeriesUpdated || isRecoveredTimeSeriesUpdated)
       {
         Trace.TraceInformation("Se actualizará ArcGIS.");
@@ -423,7 +424,8 @@ namespace Covid19ApiConsole
       //C:\Progra~1\ArcGIS\Pro\bin\Python\scripts\propy.bat "C:\Users\mtorres\OneDrive - Esri NOSA\Documentos\ArcGIS\Projects\MyProject\covid19.py"
       string[] cmds = new string[]
       {
-        $"C:\\Progra~1\\ArcGIS\\Pro\\bin\\Python\\scripts\\propy.bat \"C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\ArcGIS\\Projects\\MyProject\\covid19.py\""
+        //  $"C:\\Progra~1\\ArcGIS\\Pro\\bin\\Python\\scripts\\propy.bat \"C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\ArcGIS\\Projects\\MyProject\\covid19.py\""
+        $"{process.Configuration.PythonExecutionEnvPath} \"{process.Configuration.PythonScriptPath}\""
       };
       RunCommandLine(cmds);
     }

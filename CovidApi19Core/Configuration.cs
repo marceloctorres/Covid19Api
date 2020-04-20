@@ -10,8 +10,17 @@ namespace MarceloCTorres.Covid19Api.Core
   /// </summary>
   public class Configuration
   {
+    /// <summary>
+    /// 
+    /// </summary>
+    [JsonProperty("pythonScriptPath")]
+    public string PythonScriptPath { get; set; }
 
-    public string CondaPath { get; set; }
+    /// <summary>
+    /// 
+    /// </summary>
+    [JsonProperty("pythonExecutionEnvPath")]
+    public string PythonExecutionEnvPath { get; set; }
 
     /// <summary>
     /// 
