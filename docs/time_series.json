@@ -115825,17 +115825,17 @@
       },
       {
         "date": "2020-04-21T00:00:00",
-        "confirmed": 812036,
+        "confirmed": 811865,
         "deaths": 44444,
         "recovered": 75204,
-        "active": 692388
+        "active": 692217
       },
       {
         "date": "2020-04-22T00:00:00",
-        "confirmed": 839675,
-        "deaths": 46583,
+        "confirmed": 840351,
+        "deaths": 46622,
         "recovered": 77366,
-        "active": 715726
+        "active": 716363
       }
     ]
   },
