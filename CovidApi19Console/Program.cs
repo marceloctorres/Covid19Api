@@ -475,6 +475,7 @@ namespace Covid19ApiConsole
       };
       Trace.Listeners.Add(textListener);
       Trace.Listeners.Add(consoleListener);
+      Trace.AutoFlush = true;
     }
 
     private static void Main(string[] args)
