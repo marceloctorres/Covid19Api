@@ -5978,45 +5978,45 @@
       },
       {
         "date": "2020-04-18T00:00:00",
-        "confirmed": 6547,
+        "confirmed": 6568,
         "deaths": 67,
         "recovered": 4124,
-        "active": 2356
+        "active": 2377
       },
       {
         "date": "2020-04-19T00:00:00",
-        "confirmed": 6547,
+        "confirmed": 6610,
         "deaths": 67,
         "recovered": 4124,
-        "active": 2356
+        "active": 2419
       },
       {
         "date": "2020-04-20T00:00:00",
-        "confirmed": 6547,
+        "confirmed": 6623,
         "deaths": 67,
         "recovered": 4124,
-        "active": 2356
+        "active": 2432
       },
       {
         "date": "2020-04-21T00:00:00",
-        "confirmed": 6547,
+        "confirmed": 6645,
         "deaths": 67,
         "recovered": 4124,
-        "active": 2356
+        "active": 2454
       },
       {
         "date": "2020-04-22T00:00:00",
-        "confirmed": 6547,
+        "confirmed": 6652,
         "deaths": 67,
         "recovered": 4124,
-        "active": 2356
+        "active": 2461
       },
       {
         "date": "2020-04-23T00:00:00",
-        "confirmed": 6661,
+        "confirmed": 6662,
         "deaths": 75,
         "recovered": 4124,
-        "active": 2462
+        "active": 2463
       }
     ]
   },
