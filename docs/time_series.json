@@ -6106,43 +6106,43 @@
         "date": "2020-04-20T00:00:00",
         "confirmed": 6623,
         "deaths": 67,
-        "recovered": 4124,
-        "active": 2432
+        "recovered": 4291,
+        "active": 2265
       },
       {
         "date": "2020-04-21T00:00:00",
         "confirmed": 6645,
         "deaths": 67,
-        "recovered": 4124,
-        "active": 2454
+        "recovered": 4695,
+        "active": 1883
       },
       {
         "date": "2020-04-22T00:00:00",
         "confirmed": 6652,
         "deaths": 67,
-        "recovered": 4124,
-        "active": 2461
+        "recovered": 4932,
+        "active": 1653
       },
       {
         "date": "2020-04-23T00:00:00",
         "confirmed": 6662,
         "deaths": 75,
-        "recovered": 4124,
-        "active": 2463
+        "recovered": 5047,
+        "active": 1540
       },
       {
         "date": "2020-04-24T00:00:00",
         "confirmed": 6677,
         "deaths": 79,
-        "recovered": 4124,
-        "active": 2474
+        "recovered": 5136,
+        "active": 1462
       },
       {
         "date": "2020-04-25T00:00:00",
         "confirmed": 6694,
         "deaths": 80,
-        "recovered": 5271,
-        "active": 1343
+        "recovered": 5376,
+        "active": 1238
       }
     ]
   },
