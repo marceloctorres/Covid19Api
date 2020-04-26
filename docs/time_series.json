@@ -118134,10 +118134,10 @@
       },
       {
         "date": "2020-04-24T00:00:00",
-        "confirmed": 8125,
+        "confirmed": 7647,
         "deaths": 201,
         "recovered": 782,
-        "active": 7142
+        "active": 6664
       },
       {
         "date": "2020-04-25T00:00:00",
