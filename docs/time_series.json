@@ -6141,8 +6141,8 @@
         "date": "2020-04-25T00:00:00",
         "confirmed": 6694,
         "deaths": 80,
-        "recovered": 4223,
-        "active": 2391
+        "recovered": 5271,
+        "active": 1343
       }
     ]
   },
