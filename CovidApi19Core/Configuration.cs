@@ -13,6 +13,12 @@ namespace MarceloCTorres.Covid19Api.Core
     /// <summary>
     /// 
     /// </summary>
+    [JsonProperty("repoBaseUrl")]
+    public string RepoBaseUrl { get; set; }
+
+    /// <summary>
+    /// 
+    /// </summary>
     [JsonProperty("pythonScriptPath")]
     public string PythonScriptPath { get; set; }
 

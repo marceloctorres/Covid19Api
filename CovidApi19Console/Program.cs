@@ -174,64 +174,37 @@ namespace Covid19ApiConsole
       {
         return Configuration.Read(configurationFilePath);
       }
-      else
+      throw new ApplicationException("Archivo de configuración no encontrado");
+    }
+
+    private static void GetHttpRepoFiles(SourceTypes sourceTypes, ref bool isUpdated, bool findLast = false)
+    {
+      var fileTypeConfiguration = process.FindFileTypeConfiguration(sourceTypes);
+      var repoPath = findLast ?
+        Path.Combine(process.Configuration.RepoBaseUrl, fileTypeConfiguration.RepoRelativeFilePath) :
+        Path.Combine(process.Configuration.RepoBaseUrl, fileTypeConfiguration.RepoRelativeFilePath, fileTypeConfiguration.RepoFileName);
+      var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
+
+      if(findLast)
       {
-        var configuration = new Configuration
-        {
-          RepoBasePath = @"C:\Users\mtorres\OneDrive - Esri NOSA\Documentos\GitHub\COVID-19",
-          FilesConfiguration =
-          {
-            new FileTypeConfiguration
-            {
-              SourceType = SourceTypes.Countries,
-              RepoFileName = "",
-              RepoRelativeFilePath = "",
-              SourceFileName = "countries.csv",
-              TargetFileName = "countries.json",
-            },
-            new FileTypeConfiguration
-            {
-              SourceType = SourceTypes.DialyReport,
-              RepoFileName = "",
-              RepoRelativeFilePath = "",
-              SourceFileName = "daily_reports.csv",
-              TargetFileName = "daily_reports.csv",
-            },
-            new FileTypeConfiguration
-            {
-              SourceType = SourceTypes.TimeSeriesConfirmed,
-              RepoFileName = "time_series_covid19_confirmed_global.csv",
-              RepoRelativeFilePath = @"\csse_covid_19_data\csse_covid_19_time_series",
-              SourceFileName = "time_series_confirmed.csv",
-              TargetFileName = "time_series_full.json",
-            },
-            new FileTypeConfiguration
-            {
-              SourceType = SourceTypes.TimeSeriesDeaths,
-              RepoFileName = "time_series_covid19_recovered_global.csv",
-              RepoRelativeFilePath = @"\csse_covid_19_data\csse_covid_19_time_series",
-              SourceFileName = "time_series_deaths.csv",
-              TargetFileName = "time_series_full.json",
-            },
-            new FileTypeConfiguration
-            {
-              SourceType = SourceTypes.TimeSeriesRecovered,
-              RepoFileName = "time_series_covid19_deaths_global.csv",
-              RepoRelativeFilePath = @"\csse_covid_19_data\csse_covid_19_time_series",
-              SourceFileName = "time_series_recovered.csv",
-              TargetFileName = "time_series_full.json",
-            },
-            new FileTypeConfiguration
-            {
-              SourceType = SourceTypes.TimeSeriesConsolidated,
-              SourceFileName = "time_series_full.json",
-              TargetFileName = "time_series.json",
-            },
-          }
-        };
-        configuration.Write(configurationFilePath);
-        return configuration;
+        var fileNameToSearch = $"{DateTime.Today:MM-dd-yyyy}.csv";
+        Trace.TraceInformation(fileNameToSearch);
+        repoPath = Directory.GetFiles(repoPath)
+                            .Where(f => f.EndsWith(".csv"))
+                            .OrderBy(f => f)
+                            .LastOrDefault();
       }
+      Trace.TraceInformation(repoPath);
+      isUpdated = fileTypeConfiguration.LastUpdate != null ?
+        File.GetLastWriteTime(repoPath) > fileTypeConfiguration.LastUpdate :
+        true;
+      if(isUpdated)
+      {
+        fileTypeConfiguration.LastUpdate = File.GetLastWriteTime(repoPath);
+        process.Configuration.Write(configurationFilePath);
+        File.Copy(repoPath, sourcePath, true);
+      }
+
     }
 
     /// <summary>
