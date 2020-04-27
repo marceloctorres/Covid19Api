@@ -1,8 +1,8 @@
 {
+  "repoBaseUrl": "https://marceloctorres.github.io/COVID-19/",
   "pythonScriptPath": "C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\ArcGIS\\Projects\\MyProject\\covid19.py",
   "pythonExecutionEnvPath": "C:\\Progra~1\\ArcGIS\\Pro\\bin\\Python\\scripts\\propy.bat",
   "repoBasePath": "C:\\Users\\mtorres\\OneDrive - Esri NOSA\\Documentos\\GitHub\\COVID-19",
-  "repoBaseUrl": "https://marceloctorres.github.io/COVID-19/",
   "publishBasePath": "C:\\Users\\mtorres\\source\\repos\\Covid19Api",
   "filesConfiguration": [
     {
@@ -19,7 +19,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_daily_reports",
       "sourceFileName": "daily_reports.csv",
       "targetFileName": "daily_reports.json",
-      "lastUpdate": "2020-04-22T18:54:55.2096344-05:00"
+      "lastUpdate": "2020-04-26T22:00:09.6540875-05:00"
     },
     {
       "sourceType": 2,
@@ -27,7 +27,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
       "sourceFileName": "time_series_confirmed.csv",
       "targetFileName": "time_series_full.json",
-      "lastUpdate": "2020-04-22T19:00:39.9746393-05:00"
+      "lastUpdate": "2020-04-26T22:00:10.114095-05:00"
     },
     {
       "sourceType": 3,
@@ -35,7 +35,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
       "sourceFileName": "time_series_deaths.csv",
       "targetFileName": "time_series_full.json",
-      "lastUpdate": "2020-04-22T19:00:40.0086292-05:00"
+      "lastUpdate": "2020-04-26T22:00:10.1970941-05:00"
     },
     {
       "sourceType": 4,
@@ -43,7 +43,7 @@
       "repoRelativeFilePath": "csse_covid_19_data\\csse_covid_19_time_series",
       "sourceFileName": "time_series_recovered.csv",
       "targetFileName": "time_series_full.json",
-      "lastUpdate": "2020-04-22T19:00:40.0746328-05:00"
+      "lastUpdate": "2020-04-26T22:00:10.2230945-05:00"
     },
     {
       "sourceType": 5,

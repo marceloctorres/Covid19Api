@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 
 using MarceloCTorres.Covid19Api.Core;
+using MarceloCTorres.Covid19Api.Core.Http;
 
 namespace Covid19ApiConsole
 {
@@ -177,12 +178,15 @@ namespace Covid19ApiConsole
       throw new ApplicationException("Archivo de configuración no encontrado");
     }
 
-    private static void GetHttpRepoFiles(SourceTypes sourceTypes, ref bool isUpdated, bool findLast = false)
+    private async static void GetHttpRepoFiles(SourceTypes sourceTypes, bool isUpdated, bool findLast = false)
     {
       var fileTypeConfiguration = process.FindFileTypeConfiguration(sourceTypes);
       var repoPath = findLast ?
         Path.Combine(process.Configuration.RepoBaseUrl, fileTypeConfiguration.RepoRelativeFilePath) :
         Path.Combine(process.Configuration.RepoBaseUrl, fileTypeConfiguration.RepoRelativeFilePath, fileTypeConfiguration.RepoFileName);
+
+      var cvs = await HttpServiceClient.GetAsync(new Uri(repoPath));
+
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
 
       if(findLast)
@@ -241,6 +245,11 @@ namespace Covid19ApiConsole
         File.Copy(repoPath, sourcePath, true);
       }
     }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    private static void GetHttpCountryRepoFiles() => GetHttpRepoFiles(SourceTypes.Countries, isCountriesUpdated);
 
     /// <summary>
     /// 
