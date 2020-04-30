@@ -532,6 +532,20 @@
     ]
   },
   {
+    "threeLetterIsoCode": "COM",
+    "twoLetterIsoCode": "KM",
+    "countryRegion": "Comoros",
+    "latitude": -11.6455,
+    "longitude": 43.3333,
+    "population": 869595,
+    "cultureNames": [
+      {
+        "culture": "es",
+        "name": "Comoras"
+      }
+    ]
+  },
+  {
     "threeLetterIsoCode": "CPV",
     "twoLetterIsoCode": "CV",
     "countryRegion": "Cabo Verde",
@@ -2296,6 +2310,20 @@
       {
         "culture": "es",
         "name": "Tailandia"
+      }
+    ]
+  },
+  {
+    "threeLetterIsoCode": "TJK",
+    "twoLetterIsoCode": "TJ",
+    "countryRegion": "Tajikistan",
+    "latitude": 38.861,
+    "longitude": 71.2761,
+    "population": 9537642,
+    "cultureNames": [
+      {
+        "culture": "es",
+        "name": "Tayikistán"
       }
     ]
   },
