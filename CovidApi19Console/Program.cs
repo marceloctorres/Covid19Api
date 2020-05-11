@@ -185,7 +185,7 @@ namespace Covid19ApiConsole
         Path.Combine(process.Configuration.RepoBaseUrl, fileTypeConfiguration.RepoRelativeFilePath) :
         Path.Combine(process.Configuration.RepoBaseUrl, fileTypeConfiguration.RepoRelativeFilePath, fileTypeConfiguration.RepoFileName);
 
-      var cvs = await HttpServiceClient.GetAsync(new Uri(repoPath));
+      var (result, dateTime) = await HttpServiceClient.GetAsync(new Uri(repoPath));
 
       var sourcePath = Path.Combine(process.Configuration.SourceBasePath, fileTypeConfiguration.SourceFileName);
 
