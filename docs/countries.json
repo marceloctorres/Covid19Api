@@ -1423,6 +1423,20 @@
     ]
   },
   {
+    "threeLetterIsoCode": "LSO",
+    "twoLetterIsoCode": "LS",
+    "countryRegion": "Lesotho",
+    "latitude": -29.61,
+    "longitude": 28.2336,
+    "population": 2142252,
+    "cultureNames": [
+      {
+        "culture": "es",
+        "name": "Lesoto"
+      }
+    ]
+  },
+  {
     "threeLetterIsoCode": "LTU",
     "twoLetterIsoCode": "LT",
     "countryRegion": "Lithuania",
