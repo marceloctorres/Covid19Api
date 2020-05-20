@@ -47645,8 +47645,8 @@
         "date": "2020-05-19T00:00:00",
         "confirmed": 232037,
         "deaths": 27778,
-        "recovered": 0,
-        "active": 204259
+        "recovered": 150376,
+        "active": 53883
       }
     ]
   },
