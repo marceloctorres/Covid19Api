@@ -72434,10 +72434,10 @@
       },
       {
         "date": "2020-03-12T00:00:00",
-        "confirmed": 12462,
-        "deaths": 827,
+        "confirmed": 15113,
+        "deaths": 1016,
         "recovered": 1045,
-        "active": 10590
+        "active": 13052
       },
       {
         "date": "2020-03-13T00:00:00",
