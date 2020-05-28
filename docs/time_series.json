@@ -161394,44 +161394,44 @@
       {
         "date": "2020-05-22T00:00:00",
         "confirmed": 1600937,
-        "deaths": 95979,
+        "deaths": 95978,
         "recovered": 350135,
-        "active": 1154823
+        "active": 1154824
       },
       {
         "date": "2020-05-23T00:00:00",
         "confirmed": 1622612,
-        "deaths": 97087,
+        "deaths": 97086,
         "recovered": 361239,
-        "active": 1164286
+        "active": 1164287
       },
       {
         "date": "2020-05-24T00:00:00",
         "confirmed": 1643246,
-        "deaths": 97720,
+        "deaths": 97719,
         "recovered": 366736,
-        "active": 1178790
+        "active": 1178791
       },
       {
         "date": "2020-05-25T00:00:00",
         "confirmed": 1662302,
-        "deaths": 98220,
+        "deaths": 98219,
         "recovered": 379157,
-        "active": 1184925
+        "active": 1184926
       },
       {
         "date": "2020-05-26T00:00:00",
         "confirmed": 1680913,
-        "deaths": 98913,
+        "deaths": 98912,
         "recovered": 384902,
-        "active": 1197098
+        "active": 1197099
       },
       {
         "date": "2020-05-27T00:00:00",
         "confirmed": 1699176,
-        "deaths": 100418,
+        "deaths": 100417,
         "recovered": 391508,
-        "active": 1207250
+        "active": 1207251
       }
     ]
   },
