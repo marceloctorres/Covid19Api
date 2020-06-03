@@ -4255,10 +4255,10 @@
     "lastUpdate": "2020-06-02T02:33:08",
     "dailyData": {
       "date": "2020-06-02T00:00:00",
-      "confirmed": 1811360,
-      "deaths": 105165,
+      "confirmed": 1811020,
+      "deaths": 105149,
       "recovered": 458231,
-      "active": 1247964
+      "active": 1247640
     }
   },
   {
