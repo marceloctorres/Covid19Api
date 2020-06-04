@@ -58303,10 +58303,10 @@
       },
       {
         "date": "2020-06-03T00:00:00",
-        "confirmed": 114400,
+        "confirmed": 192330,
         "deaths": 29024,
         "recovered": 69573,
-        "active": 15803
+        "active": 93733
       }
     ]
   },
