@@ -952,6 +952,13 @@
         "deaths": 294,
         "recovered": 1522,
         "active": 15451
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 18054,
+        "deaths": 300,
+        "recovered": 1585,
+        "active": 16169
       }
     ]
   },
@@ -1904,6 +1911,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 86,
+        "deaths": 4,
+        "recovered": 18,
+        "active": 64
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 86,
         "deaths": 4,
         "recovered": 18,
@@ -2864,6 +2878,13 @@
         "deaths": 33,
         "recovered": 898,
         "active": 253
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1197,
+        "deaths": 33,
+        "recovered": 898,
+        "active": 266
       }
     ]
   },
@@ -3820,6 +3841,13 @@
         "deaths": 51,
         "recovered": 735,
         "active": 65
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 852,
+        "deaths": 51,
+        "recovered": 738,
+        "active": 63
       }
     ]
   },
@@ -4776,6 +4804,13 @@
         "deaths": 270,
         "recovered": 19153,
         "active": 16936
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 37018,
+        "deaths": 273,
+        "recovered": 19572,
+        "active": 17173
       }
     ]
   },
@@ -5732,6 +5767,13 @@
         "deaths": 583,
         "recovered": 5896,
         "active": 12789
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 20197,
+        "deaths": 608,
+        "recovered": 5993,
+        "active": 13596
       }
     ]
   },
@@ -6688,6 +6730,13 @@
         "deaths": 170,
         "recovered": 3454,
         "active": 6900
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 11221,
+        "deaths": 176,
+        "recovered": 3468,
+        "active": 7577
       }
     ]
   },
@@ -7640,6 +7689,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 26,
+        "deaths": 3,
+        "recovered": 20,
+        "active": 3
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 26,
         "deaths": 3,
         "recovered": 20,
@@ -8600,6 +8656,13 @@
         "deaths": 102,
         "recovered": 6648,
         "active": 490
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 7247,
+        "deaths": 102,
+        "recovered": 6683,
+        "active": 462
       }
     ]
   },
@@ -9556,6 +9619,13 @@
         "deaths": 670,
         "recovered": 15672,
         "active": 429
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 16805,
+        "deaths": 670,
+        "recovered": 15717,
+        "active": 418
       }
     ]
   },
@@ -10512,6 +10582,13 @@
         "deaths": 76,
         "recovered": 3665,
         "active": 2519
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 6522,
+        "deaths": 78,
+        "recovered": 3737,
+        "active": 2707
       }
     ]
   },
@@ -11464,6 +11541,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 63,
+        "deaths": 1,
+        "recovered": 33,
+        "active": 29
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 63,
         "deaths": 1,
         "recovered": 33,
@@ -12424,6 +12508,13 @@
         "deaths": 9522,
         "recovered": 15959,
         "active": 33204
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 58767,
+        "deaths": 9548,
+        "recovered": 16048,
+        "active": 33171
       }
     ]
   },
@@ -13380,6 +13471,13 @@
         "deaths": 3,
         "recovered": 148,
         "active": 93
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 261,
+        "deaths": 3,
+        "recovered": 151,
+        "active": 107
       }
     ]
   },
@@ -14336,6 +14434,13 @@
         "deaths": 53,
         "recovered": 753,
         "active": 78
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 885,
+        "deaths": 53,
+        "recovered": 760,
+        "active": 72
       }
     ]
   },
@@ -15292,6 +15397,13 @@
         "deaths": 746,
         "recovered": 11590,
         "active": 42804
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 57563,
+        "deaths": 781,
+        "recovered": 12161,
+        "active": 44621
       }
     ]
   },
@@ -16248,6 +16360,13 @@
         "deaths": 146,
         "recovered": 1206,
         "active": 1208
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2585,
+        "deaths": 147,
+        "recovered": 1322,
+        "active": 1116
       }
     ]
   },
@@ -17204,6 +17323,13 @@
         "deaths": 20,
         "recovered": 7410,
         "active": 5385
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 13296,
+        "deaths": 21,
+        "recovered": 7728,
+        "active": 5547
       }
     ]
   },
@@ -18156,6 +18282,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 102,
+        "deaths": 11,
+        "recovered": 55,
+        "active": 36
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 102,
         "deaths": 11,
         "recovered": 55,
@@ -19116,6 +19249,13 @@
         "deaths": 157,
         "recovered": 1939,
         "active": 455
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2594,
+        "deaths": 159,
+        "recovered": 1951,
+        "active": 484
       }
     ]
   },
@@ -20072,6 +20212,13 @@
         "deaths": 248,
         "recovered": 20171,
         "active": 24697
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 45981,
+        "deaths": 253,
+        "recovered": 21162,
+        "active": 24566
       }
     ]
   },
@@ -21024,6 +21171,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 18,
+        "deaths": 2,
+        "recovered": 16,
+        "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 18,
         "deaths": 2,
         "recovered": 16,
@@ -21984,6 +22138,13 @@
         "deaths": 400,
         "recovered": 1507,
         "active": 9731
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 12245,
+        "deaths": 415,
+        "recovered": 1658,
+        "active": 10172
       }
     ]
   },
@@ -22940,6 +23101,13 @@
         "deaths": 32548,
         "recovered": 238617,
         "active": 312851
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 614941,
+        "deaths": 34021,
+        "recovered": 254963,
+        "active": 325957
       }
     ]
   },
@@ -23892,6 +24060,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 92,
+        "deaths": 7,
+        "recovered": 81,
+        "active": 4
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 92,
         "deaths": 7,
         "recovered": 81,
@@ -24852,6 +25027,13 @@
         "deaths": 2,
         "recovered": 138,
         "active": 1
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 141,
+        "deaths": 2,
+        "recovered": 138,
+        "active": 1
       }
     ]
   },
@@ -25804,6 +25986,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 47,
+        "deaths": 0,
+        "recovered": 9,
+        "active": 38
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 47,
         "deaths": 0,
         "recovered": 9,
@@ -26764,6 +26953,13 @@
         "deaths": 1,
         "recovered": 23,
         "active": 16
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 40,
+        "deaths": 1,
+        "recovered": 23,
+        "active": 16
       }
     ]
   },
@@ -27720,6 +27916,13 @@
         "deaths": 4,
         "recovered": 23,
         "active": 1146
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1288,
+        "deaths": 4,
+        "recovered": 23,
+        "active": 1261
       }
     ]
   },
@@ -28676,6 +28879,13 @@
         "deaths": 7579,
         "recovered": 51506,
         "active": 35556
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 95269,
+        "deaths": 7717,
+        "recovered": 52184,
+        "active": 35368
       }
     ]
   },
@@ -29632,6 +29842,13 @@
         "deaths": 1921,
         "recovered": 28600,
         "active": 372
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 30913,
+        "deaths": 1921,
+        "recovered": 28600,
+        "active": 392
       }
     ]
   },
@@ -30588,6 +30805,13 @@
         "deaths": 1275,
         "recovered": 21605,
         "active": 90748
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 118292,
+        "deaths": 1356,
+        "recovered": 21305,
+        "active": 95631
       }
     ]
   },
@@ -31543,6 +31767,13 @@
         "confirmed": 84160,
         "deaths": 4638,
         "recovered": 79404,
+        "active": 118
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 84171,
+        "deaths": 4638,
+        "recovered": 79415,
         "active": 118
       }
     ]
@@ -32500,6 +32731,13 @@
         "deaths": 35,
         "recovered": 1530,
         "active": 1545
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 3262,
+        "deaths": 35,
+        "recovered": 1584,
+        "active": 1643
       }
     ]
   },
@@ -33456,6 +33694,13 @@
         "deaths": 200,
         "recovered": 3676,
         "active": 2709
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 6789,
+        "deaths": 203,
+        "recovered": 3705,
+        "active": 2881
       }
     ]
   },
@@ -34412,6 +34657,13 @@
         "deaths": 75,
         "recovered": 492,
         "active": 2928
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 3644,
+        "deaths": 78,
+        "recovered": 495,
+        "active": 3071
       }
     ]
   },
@@ -35364,6 +35616,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 611,
+        "deaths": 20,
+        "recovered": 179,
+        "active": 412
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 611,
         "deaths": 20,
         "recovered": 179,
@@ -36324,6 +36583,13 @@
         "deaths": 1057,
         "recovered": 11171,
         "active": 19707
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 33466,
+        "deaths": 1099,
+        "recovered": 12319,
+        "active": 20048
       }
     ]
   },
@@ -37280,6 +37546,13 @@
         "deaths": 2,
         "recovered": 27,
         "active": 103
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 132,
+        "deaths": 2,
+        "recovered": 55,
+        "active": 75
       }
     ]
   },
@@ -38236,6 +38509,13 @@
         "deaths": 5,
         "recovered": 238,
         "active": 234
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 502,
+        "deaths": 5,
+        "recovered": 239,
+        "active": 258
       }
     ]
   },
@@ -39192,6 +39472,13 @@
         "deaths": 10,
         "recovered": 685,
         "active": 462
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1194,
+        "deaths": 10,
+        "recovered": 687,
+        "active": 497
       }
     ]
   },
@@ -40148,6 +40435,13 @@
         "deaths": 83,
         "recovered": 1830,
         "active": 194
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2119,
+        "deaths": 83,
+        "recovered": 1839,
+        "active": 197
       }
     ]
   },
@@ -41100,6 +41394,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 958,
+        "deaths": 17,
+        "recovered": 790,
+        "active": 151
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 958,
         "deaths": 17,
         "recovered": 790,
@@ -42060,6 +42361,13 @@
         "deaths": 325,
         "recovered": 6749,
         "active": 2364
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 9494,
+        "deaths": 326,
+        "recovered": 6809,
+        "active": 2359
       }
     ]
   },
@@ -43016,6 +43324,13 @@
         "deaths": 8602,
         "recovered": 167453,
         "active": 8066
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 184472,
+        "deaths": 8635,
+        "recovered": 167909,
+        "active": 7928
       }
     ]
   },
@@ -43972,6 +44287,13 @@
         "deaths": 26,
         "recovered": 1636,
         "active": 2273
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 4054,
+        "deaths": 26,
+        "recovered": 1685,
+        "active": 2343
       }
     ]
   },
@@ -44924,6 +45246,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 16,
+        "active": 2
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 18,
         "deaths": 0,
         "recovered": 16,
@@ -45884,6 +46213,13 @@
         "deaths": 580,
         "recovered": 10750,
         "active": 641
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 12011,
+        "deaths": 582,
+        "recovered": 10820,
+        "active": 609
       }
     ]
   },
@@ -46840,6 +47176,13 @@
         "deaths": 516,
         "recovered": 11224,
         "active": 6300
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 18319,
+        "deaths": 520,
+        "recovered": 11474,
+        "active": 6325
       }
     ]
   },
@@ -47787,6 +48130,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 712,
+        "deaths": 13,
+        "recovered": 651,
+        "active": 48
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 712,
         "deaths": 13,
         "recovered": 651,
@@ -48747,6 +49097,13 @@
         "deaths": 673,
         "recovered": 6218,
         "active": 2842
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 9831,
+        "deaths": 681,
+        "recovered": 6297,
+        "active": 2853
       }
     ]
   },
@@ -49699,6 +50056,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 40966,
+        "deaths": 3486,
+        "recovered": 20019,
+        "active": 17461
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 40966,
         "deaths": 3486,
         "recovered": 20019,
@@ -50659,6 +51023,13 @@
         "deaths": 1088,
         "recovered": 7350,
         "active": 20177
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 29767,
+        "deaths": 1126,
+        "recovered": 7756,
+        "active": 20885
       }
     ]
   },
@@ -51611,6 +51982,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 39,
+        "deaths": 0,
+        "recovered": 39,
+        "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 39,
         "deaths": 0,
         "recovered": 39,
@@ -52571,6 +52949,13 @@
         "deaths": 1,
         "recovered": 6,
         "active": 2
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 9,
+        "deaths": 1,
+        "recovered": 6,
+        "active": 2
       }
     ]
   },
@@ -53527,6 +53912,13 @@
         "deaths": 27128,
         "recovered": 150376,
         "active": 62822
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 240660,
+        "deaths": 27133,
+        "recovered": 150376,
+        "active": 63151
       }
     ]
   },
@@ -54483,6 +54875,13 @@
         "deaths": 69,
         "recovered": 1650,
         "active": 161
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1890,
+        "deaths": 69,
+        "recovered": 1663,
+        "active": 158
       }
     ]
   },
@@ -55439,6 +55838,13 @@
         "deaths": 17,
         "recovered": 246,
         "active": 1223
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1636,
+        "deaths": 18,
+        "recovered": 250,
+        "active": 1368
       }
     ]
   },
@@ -56395,6 +56801,13 @@
         "deaths": 321,
         "recovered": 5500,
         "active": 1090
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 6911,
+        "deaths": 322,
+        "recovered": 5800,
+        "active": 789
       }
     ]
   },
@@ -57351,6 +57764,13 @@
         "deaths": 0,
         "recovered": 15,
         "active": 3
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 18,
+        "active": 0
       }
     ]
   },
@@ -58307,6 +58727,13 @@
         "deaths": 29024,
         "recovered": 69573,
         "active": 93733
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 189569,
+        "deaths": 29068,
+        "recovered": 70094,
+        "active": 90407
       }
     ]
   },
@@ -59263,6 +59690,13 @@
         "deaths": 20,
         "recovered": 801,
         "active": 2081
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2955,
+        "deaths": 21,
+        "recovered": 818,
+        "active": 2116
       }
     ]
   },
@@ -60219,6 +60653,13 @@
         "deaths": 39811,
         "recovered": 1212,
         "active": 240247
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 283079,
+        "deaths": 39987,
+        "recovered": 1219,
+        "active": 241873
       }
     ]
   },
@@ -61175,6 +61616,13 @@
         "deaths": 13,
         "recovered": 640,
         "active": 147
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 801,
+        "deaths": 13,
+        "recovered": 644,
+        "active": 144
       }
     ]
   },
@@ -62131,6 +62579,13 @@
         "deaths": 38,
         "recovered": 3132,
         "active": 5378
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 8885,
+        "deaths": 38,
+        "recovered": 3189,
+        "active": 5658
       }
     ]
   },
@@ -63087,6 +63542,13 @@
         "deaths": 23,
         "recovered": 2332,
         "active": 1578
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 3991,
+        "deaths": 23,
+        "recovered": 2512,
+        "active": 1456
       }
     ]
   },
@@ -64039,6 +64501,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 26,
+        "deaths": 1,
+        "recovered": 20,
+        "active": 5
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 26,
         "deaths": 1,
         "recovered": 20,
@@ -64999,6 +65468,13 @@
         "deaths": 8,
         "recovered": 53,
         "active": 1278
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1339,
+        "deaths": 8,
+        "recovered": 53,
+        "active": 1278
       }
     ]
   },
@@ -65951,6 +66427,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 1306,
+        "deaths": 12,
+        "recovered": 200,
+        "active": 1094
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 1306,
         "deaths": 12,
         "recovered": 200,
@@ -66911,6 +67394,13 @@
         "deaths": 179,
         "recovered": 1374,
         "active": 1384
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2952,
+        "deaths": 180,
+        "recovered": 1374,
+        "active": 1398
       }
     ]
   },
@@ -67863,6 +68353,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 23,
+        "deaths": 0,
+        "recovered": 18,
+        "active": 5
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 23,
         "deaths": 0,
         "recovered": 18,
@@ -68823,6 +69320,13 @@
         "deaths": 143,
         "recovered": 929,
         "active": 4688
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 6154,
+        "deaths": 158,
+        "recovered": 979,
+        "active": 5017
       }
     ]
   },
@@ -69779,6 +70283,13 @@
         "deaths": 12,
         "recovered": 70,
         "active": 71
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 153,
+        "deaths": 12,
+        "recovered": 77,
+        "active": 64
       }
     ]
   },
@@ -70735,6 +71246,13 @@
         "deaths": 234,
         "recovered": 617,
         "active": 4839
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 5880,
+        "deaths": 243,
+        "recovered": 648,
+        "active": 4989
       }
     ]
   },
@@ -71691,6 +72209,13 @@
         "deaths": 103,
         "recovered": 2095,
         "active": 48
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2247,
+        "deaths": 103,
+        "recovered": 2105,
+        "active": 39
       }
     ]
   },
@@ -72647,6 +73172,13 @@
         "deaths": 48,
         "recovered": 24,
         "active": 2435
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2640,
+        "deaths": 50,
+        "recovered": 24,
+        "active": 2566
       }
     ]
   },
@@ -73603,6 +74135,13 @@
         "deaths": 534,
         "recovered": 2190,
         "active": 1207
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 3954,
+        "deaths": 539,
+        "recovered": 2205,
+        "active": 1210
       }
     ]
   },
@@ -74559,6 +75098,13 @@
         "deaths": 1698,
         "recovered": 8406,
         "active": 18129
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 28818,
+        "deaths": 1721,
+        "recovered": 8892,
+        "active": 18205
       }
     ]
   },
@@ -75515,6 +76061,13 @@
         "deaths": 6088,
         "recovered": 104071,
         "active": 106665
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 226713,
+        "deaths": 6363,
+        "recovered": 108450,
+        "active": 111900
       }
     ]
   },
@@ -76471,6 +77024,13 @@
         "deaths": 1659,
         "recovered": 22698,
         "active": 754
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 25142,
+        "deaths": 1664,
+        "recovered": 22698,
+        "active": 780
       }
     ]
   },
@@ -77427,6 +77987,13 @@
         "deaths": 8012,
         "recovered": 125206,
         "active": 27478
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 164270,
+        "deaths": 8071,
+        "recovered": 127485,
+        "active": 28714
       }
     ]
   },
@@ -78383,6 +78950,13 @@
         "deaths": 256,
         "recovered": 4095,
         "active": 3817
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 8840,
+        "deaths": 271,
+        "recovered": 4338,
+        "active": 4231
       }
     ]
   },
@@ -79335,6 +79909,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 1806,
+        "deaths": 10,
+        "recovered": 1794,
+        "active": 2
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 1806,
         "deaths": 10,
         "recovered": 1794,
@@ -80295,6 +80876,13 @@
         "deaths": 291,
         "recovered": 14983,
         "active": 2103
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 17495,
+        "deaths": 291,
+        "recovered": 15013,
+        "active": 2191
       }
     ]
   },
@@ -81251,6 +81839,13 @@
         "deaths": 33601,
         "recovered": 160938,
         "active": 39297
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 234013,
+        "deaths": 33689,
+        "recovered": 161895,
+        "active": 38429
       }
     ]
   },
@@ -82207,6 +82802,13 @@
         "deaths": 10,
         "recovered": 361,
         "active": 220
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 591,
+        "deaths": 10,
+        "recovered": 368,
+        "active": 213
       }
     ]
   },
@@ -83163,6 +83765,13 @@
         "deaths": 9,
         "recovered": 561,
         "active": 187
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 765,
+        "deaths": 9,
+        "recovered": 566,
+        "active": 190
       }
     ]
   },
@@ -84119,6 +84728,13 @@
         "deaths": 905,
         "recovered": 14702,
         "active": 1260
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 16911,
+        "deaths": 911,
+        "recovered": 14785,
+        "active": 1215
       }
     ]
   },
@@ -85075,6 +85691,13 @@
         "deaths": 48,
         "recovered": 6240,
         "active": 5779
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 12067,
+        "deaths": 52,
+        "recovered": 6606,
+        "active": 5409
       }
     ]
   },
@@ -86031,6 +86654,13 @@
         "deaths": 74,
         "recovered": 553,
         "active": 1589
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2340,
+        "deaths": 78,
+        "recovered": 592,
+        "active": 1670
       }
     ]
   },
@@ -86987,6 +87617,13 @@
         "deaths": 20,
         "recovered": 1265,
         "active": 586
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1899,
+        "deaths": 20,
+        "recovered": 1292,
+        "active": 587
       }
     ]
   },
@@ -87939,6 +88576,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 125,
+        "deaths": 0,
+        "recovered": 123,
+        "active": 2
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 125,
         "deaths": 0,
         "recovered": 123,
@@ -88899,6 +89543,13 @@
         "deaths": 0,
         "recovered": 15,
         "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 15,
+        "active": 0
       }
     ]
   },
@@ -89855,6 +90506,13 @@
         "deaths": 273,
         "recovered": 10499,
         "active": 857
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 11668,
+        "deaths": 273,
+        "recovered": 10506,
+        "active": 889
       }
     ]
   },
@@ -90811,6 +91469,13 @@
         "deaths": 230,
         "recovered": 15750,
         "active": 13379
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 29921,
+        "deaths": 236,
+        "recovered": 17223,
+        "active": 12462
       }
     ]
   },
@@ -91763,6 +92428,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 19,
+        "deaths": 0,
+        "recovered": 18,
+        "active": 1
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 19,
         "deaths": 0,
         "recovered": 18,
@@ -92723,6 +93395,13 @@
         "deaths": 27,
         "recovered": 724,
         "active": 505
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1306,
+        "deaths": 28,
+        "recovered": 731,
+        "active": 547
       }
     ]
   },
@@ -93679,6 +94358,13 @@
         "deaths": 28,
         "recovered": 169,
         "active": 119
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 321,
+        "deaths": 28,
+        "recovered": 175,
+        "active": 118
       }
     ]
   },
@@ -94635,6 +95321,13 @@
         "deaths": 5,
         "recovered": 52,
         "active": 139
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 209,
+        "deaths": 5,
+        "recovered": 52,
+        "active": 152
       }
     ]
   },
@@ -95591,6 +96284,13 @@
         "deaths": 0,
         "recovered": 18,
         "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 19,
+        "deaths": 0,
+        "recovered": 18,
+        "active": 1
       }
     ]
   },
@@ -96543,6 +97243,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 82,
+        "deaths": 1,
+        "recovered": 55,
+        "active": 26
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 82,
         "deaths": 1,
         "recovered": 55,
@@ -97503,6 +98210,13 @@
         "deaths": 11,
         "recovered": 836,
         "active": 902
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1797,
+        "deaths": 11,
+        "recovered": 839,
+        "active": 947
       }
     ]
   },
@@ -98455,6 +99169,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 2,
+        "active": 2
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 4,
         "deaths": 0,
         "recovered": 2,
@@ -99415,6 +100136,13 @@
         "deaths": 71,
         "recovered": 1260,
         "active": 353
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1687,
+        "deaths": 71,
+        "recovered": 1273,
+        "active": 343
       }
     ]
   },
@@ -100371,6 +101099,13 @@
         "deaths": 110,
         "recovered": 3861,
         "active": 53
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 4027,
+        "deaths": 110,
+        "recovered": 3874,
+        "active": 43
       }
     ]
   },
@@ -101327,6 +102062,13 @@
         "deaths": 24,
         "recovered": 760,
         "active": 295
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1082,
+        "deaths": 25,
+        "recovered": 760,
+        "active": 297
       }
     ]
   },
@@ -102283,6 +103025,13 @@
         "deaths": 206,
         "recovered": 6866,
         "active": 850
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 8003,
+        "deaths": 208,
+        "recovered": 7195,
+        "active": 600
       }
     ]
   },
@@ -103239,6 +103988,13 @@
         "deaths": 4,
         "recovered": 90,
         "active": 5
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 99,
+        "deaths": 4,
+        "recovered": 92,
+        "active": 3
       }
     ]
   },
@@ -104195,6 +104951,13 @@
         "deaths": 310,
         "recovered": 4863,
         "active": 3622
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 9018,
+        "deaths": 315,
+        "recovered": 5009,
+        "active": 3694
       }
     ]
   },
@@ -105151,6 +105914,13 @@
         "deaths": 6,
         "recovered": 195,
         "active": 707
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 957,
+        "deaths": 7,
+        "recovered": 200,
+        "active": 750
       }
     ]
   },
@@ -106107,6 +106877,13 @@
         "deaths": 7,
         "recovered": 644,
         "active": 1199
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1872,
+        "deaths": 7,
+        "recovered": 648,
+        "active": 1217
       }
     ]
   },
@@ -107063,6 +107840,13 @@
         "deaths": 11729,
         "recovered": 72680,
         "active": 16829
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 105680,
+        "deaths": 12545,
+        "recovered": 74758,
+        "active": 18377
       }
     ]
   },
@@ -108019,6 +108803,13 @@
         "deaths": 145,
         "recovered": 1605,
         "active": 742
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2611,
+        "deaths": 147,
+        "recovered": 1621,
+        "active": 843
       }
     ]
   },
@@ -108975,6 +109766,13 @@
         "deaths": 79,
         "recovered": 788,
         "active": 519
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1461,
+        "deaths": 85,
+        "recovered": 806,
+        "active": 570
       }
     ]
   },
@@ -109931,6 +110729,13 @@
         "deaths": 9,
         "recovered": 562,
         "active": 51
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 622,
+        "deaths": 9,
+        "recovered": 576,
+        "active": 37
       }
     ]
   },
@@ -110887,6 +111692,13 @@
         "deaths": 6,
         "recovered": 145,
         "active": 82
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 236,
+        "deaths": 6,
+        "recovered": 148,
+        "active": 82
       }
     ]
   },
@@ -111839,6 +112651,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 324,
+        "deaths": 9,
+        "recovered": 315,
+        "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 324,
         "deaths": 9,
         "recovered": 315,
@@ -112799,6 +113618,13 @@
         "deaths": 0,
         "recovered": 44,
         "active": 141
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 186,
+        "deaths": 0,
+        "recovered": 65,
+        "active": 121
       }
     ]
   },
@@ -113755,6 +114581,13 @@
         "deaths": 2,
         "recovered": 109,
         "active": 205
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 352,
+        "deaths": 2,
+        "recovered": 114,
+        "active": 236
       }
     ]
   },
@@ -114711,6 +115544,13 @@
         "deaths": 34,
         "recovered": 57,
         "active": 654
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 784,
+        "deaths": 39,
+        "recovered": 65,
+        "active": 680
       }
     ]
   },
@@ -115658,6 +116498,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 9,
+        "deaths": 2,
+        "recovered": 0,
+        "active": 7
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 9,
         "deaths": 2,
         "recovered": 0,
@@ -116618,6 +117465,13 @@
         "deaths": 10,
         "recovered": 322,
         "active": 3
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 335,
+        "deaths": 10,
+        "recovered": 322,
+        "active": 3
       }
     ]
   },
@@ -117574,6 +118428,13 @@
         "deaths": 4,
         "recovered": 51,
         "active": 314
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 393,
+        "deaths": 4,
+        "recovered": 51,
+        "active": 338
       }
     ]
   },
@@ -118530,6 +119391,13 @@
         "deaths": 115,
         "recovered": 6531,
         "active": 1324
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 8247,
+        "deaths": 115,
+        "recovered": 6559,
+        "active": 1573
       }
     ]
   },
@@ -119482,6 +120350,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 25,
+        "deaths": 0,
+        "recovered": 16,
+        "active": 9
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 25,
         "deaths": 0,
         "recovered": 16,
@@ -120442,6 +121317,13 @@
         "deaths": 65,
         "recovered": 857,
         "active": 39
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 963,
+        "deaths": 65,
+        "recovered": 860,
+        "active": 38
       }
     ]
   },
@@ -121398,6 +122280,13 @@
         "deaths": 315,
         "recovered": 3329,
         "active": 7522
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 11516,
+        "deaths": 323,
+        "recovered": 3535,
+        "active": 7658
       }
     ]
   },
@@ -122350,6 +123239,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 1118,
+        "deaths": 46,
+        "recovered": 370,
+        "active": 702
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 1118,
         "deaths": 46,
         "recovered": 370,
@@ -123310,6 +124206,13 @@
         "deaths": 5996,
         "recovered": 180,
         "active": 40763
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 47148,
+        "deaths": 6009,
+        "recovered": 180,
+        "active": 40959
       }
     ]
   },
@@ -124266,6 +125169,13 @@
         "deaths": 237,
         "recovered": 7727,
         "active": 513
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 8504,
+        "deaths": 238,
+        "recovered": 8138,
+        "active": 128
       }
     ]
   },
@@ -125222,6 +126132,13 @@
         "deaths": 9,
         "recovered": 278,
         "active": 2013
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2634,
+        "deaths": 10,
+        "recovered": 290,
+        "active": 2334
       }
     ]
   },
@@ -126174,6 +127091,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 1504,
+        "deaths": 22,
+        "recovered": 1481,
+        "active": 1
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 1504,
         "deaths": 22,
         "recovered": 1481,
@@ -127134,6 +128058,13 @@
         "deaths": 67,
         "recovered": 2845,
         "active": 10625
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 14316,
+        "deaths": 67,
+        "recovered": 3451,
+        "active": 10798
       }
     ]
   },
@@ -128090,6 +129021,13 @@
         "deaths": 1688,
         "recovered": 28923,
         "active": 49852
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 85264,
+        "deaths": 1770,
+        "recovered": 30128,
+        "active": 53366
       }
     ]
   },
@@ -129046,6 +129984,13 @@
         "deaths": 357,
         "recovered": 9519,
         "active": 4733
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 15044,
+        "deaths": 363,
+        "recovered": 9619,
+        "active": 5062
       }
     ]
   },
@@ -130002,6 +130947,13 @@
         "deaths": 4894,
         "recovered": 72319,
         "active": 101701
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 183198,
+        "deaths": 5031,
+        "recovered": 76228,
+        "active": 101939
       }
     ]
   },
@@ -130958,6 +131910,13 @@
         "deaths": 974,
         "recovered": 4153,
         "active": 14621
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 20382,
+        "deaths": 984,
+        "recovered": 4248,
+        "active": 15150
       }
     ]
   },
@@ -131910,6 +132869,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 8,
+        "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 8,
         "deaths": 0,
         "recovered": 8,
@@ -132870,6 +133836,13 @@
         "deaths": 1115,
         "recovered": 12014,
         "active": 11558
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 25048,
+        "deaths": 1117,
+        "recovered": 12227,
+        "active": 11704
       }
     ]
   },
@@ -133826,6 +134799,13 @@
         "deaths": 1447,
         "recovered": 20079,
         "active": 11735
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 33592,
+        "deaths": 1455,
+        "recovered": 20323,
+        "active": 11814
       }
     ]
   },
@@ -134782,6 +135762,13 @@
         "deaths": 11,
         "recovered": 511,
         "active": 548
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1086,
+        "deaths": 11,
+        "recovered": 511,
+        "active": 564
       }
     ]
   },
@@ -135738,6 +136725,13 @@
         "deaths": 3,
         "recovered": 372,
         "active": 82
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 464,
+        "deaths": 3,
+        "recovered": 377,
+        "active": 84
       }
     ]
   },
@@ -136694,6 +137688,13 @@
         "deaths": 45,
         "recovered": 37542,
         "active": 24573
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 63741,
+        "deaths": 45,
+        "recovered": 39468,
+        "active": 24228
       }
     ]
   },
@@ -137650,6 +138651,13 @@
         "deaths": 1296,
         "recovered": 13800,
         "active": 4573
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 19907,
+        "deaths": 1305,
+        "recovered": 13919,
+        "active": 4683
       }
     ]
   },
@@ -138606,6 +139614,13 @@
         "deaths": 5208,
         "recovered": 195559,
         "active": 230948
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 440538,
+        "deaths": 5376,
+        "recovered": 204197,
+        "active": 230965
       }
     ]
   },
@@ -139562,6 +140577,13 @@
         "deaths": 2,
         "recovered": 271,
         "active": 124
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 410,
+        "deaths": 2,
+        "recovered": 280,
+        "active": 128
       }
     ]
   },
@@ -140518,6 +141540,13 @@
         "deaths": 579,
         "recovered": 68159,
         "active": 22444
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 93157,
+        "deaths": 611,
+        "recovered": 68965,
+        "active": 23581
       }
     ]
   },
@@ -141474,6 +142503,13 @@
         "deaths": 314,
         "recovered": 1711,
         "active": 3474
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 5714,
+        "deaths": 333,
+        "recovered": 1825,
+        "active": 3556
       }
     ]
   },
@@ -142430,6 +143466,13 @@
         "deaths": 45,
         "recovered": 2063,
         "active": 1824
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 4021,
+        "deaths": 45,
+        "recovered": 2162,
+        "active": 1814
       }
     ]
   },
@@ -143386,6 +144429,13 @@
         "deaths": 24,
         "recovered": 23582,
         "active": 12799
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 36922,
+        "deaths": 24,
+        "recovered": 23904,
+        "active": 12994
       }
     ]
   },
@@ -144342,6 +145392,13 @@
         "deaths": 47,
         "recovered": 491,
         "active": 371
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 914,
+        "deaths": 47,
+        "recovered": 491,
+        "active": 376
       }
     ]
   },
@@ -145298,6 +146355,13 @@
         "deaths": 51,
         "recovered": 1186,
         "active": 1468
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2781,
+        "deaths": 52,
+        "recovered": 1214,
+        "active": 1515
       }
     ]
   },
@@ -146254,6 +147318,13 @@
         "deaths": 42,
         "recovered": 391,
         "active": 241
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 678,
+        "deaths": 42,
+        "recovered": 408,
+        "active": 228
       }
     ]
   },
@@ -147210,6 +148281,13 @@
         "deaths": 79,
         "recovered": 406,
         "active": 1661
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2204,
+        "deaths": 79,
+        "recovered": 418,
+        "active": 1707
       }
     ]
   },
@@ -148166,6 +149244,13 @@
         "deaths": 245,
         "recovered": 6852,
         "active": 4426
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 11571,
+        "deaths": 246,
+        "recovered": 6910,
+        "active": 4415
       }
     ]
   },
@@ -149118,6 +150203,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 994,
+        "deaths": 10,
+        "recovered": 6,
+        "active": 978
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 994,
         "deaths": 10,
         "recovered": 6,
@@ -150078,6 +151170,13 @@
         "deaths": 12,
         "recovered": 68,
         "active": 404
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 485,
+        "deaths": 12,
+        "recovered": 68,
+        "active": 405
       }
     ]
   },
@@ -151034,6 +152133,13 @@
         "deaths": 1,
         "recovered": 9,
         "active": 64
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 82,
+        "deaths": 1,
+        "recovered": 9,
+        "active": 72
       }
     ]
   },
@@ -151989,6 +153095,13 @@
         "confirmed": 1525,
         "deaths": 28,
         "recovered": 1375,
+        "active": 122
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1526,
+        "deaths": 28,
+        "recovered": 1376,
         "active": 122
       }
     ]
@@ -152946,6 +154059,13 @@
         "deaths": 109,
         "recovered": 1358,
         "active": 10
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1477,
+        "deaths": 109,
+        "recovered": 1359,
+        "active": 9
       }
     ]
   },
@@ -153902,6 +155022,13 @@
         "deaths": 4542,
         "recovered": 0,
         "active": 36261
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 41883,
+        "deaths": 4562,
+        "recovered": 0,
+        "active": 37321
       }
     ]
   },
@@ -154858,6 +155985,13 @@
         "deaths": 3,
         "recovered": 201,
         "active": 91
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 300,
+        "deaths": 3,
+        "recovered": 201,
+        "active": 96
       }
     ]
   },
@@ -155810,6 +156944,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 11,
+        "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 11,
         "deaths": 0,
         "recovered": 11,
@@ -156770,6 +157911,13 @@
         "deaths": 6,
         "recovered": 53,
         "active": 64
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 124,
+        "deaths": 6,
+        "recovered": 53,
+        "active": 65
       }
     ]
   },
@@ -157726,6 +158874,13 @@
         "deaths": 66,
         "recovered": 590,
         "active": 164
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 828,
+        "deaths": 66,
+        "recovered": 633,
+        "active": 129
       }
     ]
   },
@@ -158682,6 +159837,13 @@
         "deaths": 13,
         "recovered": 236,
         "active": 203
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 465,
+        "deaths": 13,
+        "recovered": 239,
+        "active": 213
       }
     ]
   },
@@ -159638,6 +160800,13 @@
         "deaths": 58,
         "recovered": 2968,
         "active": 58
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 3101,
+        "deaths": 58,
+        "recovered": 2968,
+        "active": 75
       }
     ]
   },
@@ -160594,6 +161763,13 @@
         "deaths": 48,
         "recovered": 2347,
         "active": 1796
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 4289,
+        "deaths": 48,
+        "recovered": 2401,
+        "active": 1840
       }
     ]
   },
@@ -161546,6 +162722,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 24,
+        "active": 0
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 24,
         "deaths": 0,
         "recovered": 24,
@@ -162506,6 +163689,13 @@
         "deaths": 8,
         "recovered": 108,
         "active": 1
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 117,
+        "deaths": 8,
+        "recovered": 108,
+        "active": 1
       }
     ]
   },
@@ -163462,6 +164652,13 @@
         "deaths": 49,
         "recovered": 965,
         "active": 73
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1087,
+        "deaths": 49,
+        "recovered": 968,
+        "active": 70
       }
     ]
   },
@@ -164418,6 +165615,13 @@
         "deaths": 4609,
         "recovered": 130852,
         "active": 30961
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 167410,
+        "deaths": 4630,
+        "recovered": 131778,
+        "active": 31002
       }
     ]
   },
@@ -165370,6 +166574,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 443,
+        "deaths": 7,
+        "recovered": 428,
+        "active": 8
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 443,
         "deaths": 7,
         "recovered": 428,
@@ -166330,6 +167541,13 @@
         "deaths": 21,
         "recovered": 183,
         "active": 305
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 509,
+        "deaths": 21,
+        "recovered": 183,
+        "active": 305
       }
     ]
   },
@@ -167286,6 +168504,13 @@
         "deaths": 0,
         "recovered": 82,
         "active": 425
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 522,
+        "deaths": 0,
+        "recovered": 82,
+        "active": 440
       }
     ]
   },
@@ -168242,6 +169467,13 @@
         "deaths": 742,
         "recovered": 10838,
         "active": 13805
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 25981,
+        "deaths": 755,
+        "recovered": 11468,
+        "active": 13758
       }
     ]
   },
@@ -169198,6 +170430,13 @@
         "deaths": 23,
         "recovered": 698,
         "active": 107
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 832,
+        "deaths": 23,
+        "recovered": 709,
+        "active": 100
       }
     ]
   },
@@ -170154,6 +171393,13 @@
         "deaths": 107175,
         "recovered": 479258,
         "active": 1265087
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1872660,
+        "deaths": 108211,
+        "recovered": 485002,
+        "active": 1279447
       }
     ]
   },
@@ -171110,6 +172356,13 @@
         "deaths": 16,
         "recovered": 3014,
         "active": 813
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 3939,
+        "deaths": 16,
+        "recovered": 3087,
+        "active": 836
       }
     ]
   },
@@ -172062,6 +173315,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 2,
+        "active": 10
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 12,
         "deaths": 0,
         "recovered": 2,
@@ -173022,6 +174282,13 @@
         "deaths": 0,
         "recovered": 15,
         "active": 11
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 26,
+        "deaths": 0,
+        "recovered": 15,
+        "active": 11
       }
     ]
   },
@@ -173978,6 +175245,13 @@
         "deaths": 20,
         "recovered": 334,
         "active": 1598
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 2087,
+        "deaths": 20,
+        "recovered": 334,
+        "active": 1733
       }
     ]
   },
@@ -174930,6 +176204,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 328,
+        "deaths": 0,
+        "recovered": 302,
+        "active": 26
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 328,
         "deaths": 0,
         "recovered": 302,
@@ -175890,6 +177171,13 @@
         "deaths": 30,
         "recovered": 871,
         "active": 241
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 1142,
+        "deaths": 30,
+        "recovered": 871,
+        "active": 241
       }
     ]
   },
@@ -176846,6 +178134,13 @@
         "deaths": 95,
         "recovered": 17,
         "active": 307
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 453,
+        "deaths": 103,
+        "recovered": 17,
+        "active": 333
       }
     ]
   },
@@ -177802,6 +179097,13 @@
         "deaths": 792,
         "recovered": 19682,
         "active": 17051
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 40792,
+        "deaths": 848,
+        "recovered": 21311,
+        "active": 18633
       }
     ]
   },
@@ -178754,6 +180056,13 @@
       },
       {
         "date": "2020-06-03T00:00:00",
+        "confirmed": 1089,
+        "deaths": 7,
+        "recovered": 912,
+        "active": 170
+      },
+      {
+        "date": "2020-06-04T00:00:00",
         "confirmed": 1089,
         "deaths": 7,
         "recovered": 912,
@@ -179714,6 +181023,13 @@
         "deaths": 4,
         "recovered": 29,
         "active": 189
+      },
+      {
+        "date": "2020-06-04T00:00:00",
+        "confirmed": 237,
+        "deaths": 4,
+        "recovered": 31,
+        "active": 202
       }
     ]
   }
