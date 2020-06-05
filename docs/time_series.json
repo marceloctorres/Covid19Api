@@ -30796,22 +30796,22 @@
         "date": "2020-06-02T00:00:00",
         "confirmed": 108686,
         "deaths": 1188,
-        "recovered": 21325,
-        "active": 86173
+        "recovered": 86173,
+        "active": 21325
       },
       {
         "date": "2020-06-03T00:00:00",
         "confirmed": 113628,
         "deaths": 1275,
-        "recovered": 21605,
-        "active": 90748
+        "recovered": 90748,
+        "active": 21605
       },
       {
         "date": "2020-06-04T00:00:00",
         "confirmed": 118292,
         "deaths": 1356,
-        "recovered": 21305,
-        "active": 95631
+        "recovered": 95631,
+        "active": 21305
       }
     ]
   },
