@@ -23272,10 +23272,10 @@
       },
       {
         "date": "2020-06-05T00:00:00",
-        "confirmed": 614941,
-        "deaths": 34021,
-        "recovered": 0,
-        "active": 580920
+        "confirmed": 645771,
+        "deaths": 35026,
+        "recovered": 266940,
+        "active": 343805
       }
     ]
   },
