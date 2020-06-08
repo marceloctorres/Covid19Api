@@ -175107,37 +175107,37 @@
       {
         "date": "2020-06-03T00:00:00",
         "confirmed": 1851520,
-        "deaths": 107175,
+        "deaths": 107161,
         "recovered": 479258,
-        "active": 1265087
+        "active": 1265101
       },
       {
         "date": "2020-06-04T00:00:00",
         "confirmed": 1872660,
-        "deaths": 108211,
+        "deaths": 108197,
         "recovered": 485002,
-        "active": 1279447
+        "active": 1279461
       },
       {
         "date": "2020-06-05T00:00:00",
         "confirmed": 1897380,
-        "deaths": 109132,
+        "deaths": 109118,
         "recovered": 491706,
-        "active": 1296542
+        "active": 1296556
       },
       {
         "date": "2020-06-06T00:00:00",
         "confirmed": 1920061,
-        "deaths": 109802,
+        "deaths": 109787,
         "recovered": 500849,
-        "active": 1309410
+        "active": 1309425
       },
       {
         "date": "2020-06-07T00:00:00",
         "confirmed": 1942363,
-        "deaths": 110514,
+        "deaths": 110497,
         "recovered": 506367,
-        "active": 1325482
+        "active": 1325499
       }
     ]
   },
