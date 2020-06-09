@@ -29680,10 +29680,10 @@
       },
       {
         "date": "2020-06-02T00:00:00",
-        "confirmed": 93959,
-        "deaths": 7476,
+        "confirmed": 93960,
+        "deaths": 7478,
         "recovered": 50725,
-        "active": 35758
+        "active": 35757
       },
       {
         "date": "2020-06-03T00:00:00",
