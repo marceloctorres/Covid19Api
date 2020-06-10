@@ -177598,38 +177598,38 @@
       },
       {
         "date": "2020-06-05T00:00:00",
-        "confirmed": 1897380,
-        "deaths": 109118,
+        "confirmed": 1902632,
+        "deaths": 109359,
         "recovered": 491706,
-        "active": 1296556
+        "active": 1301567
       },
       {
         "date": "2020-06-06T00:00:00",
-        "confirmed": 1920061,
-        "deaths": 109787,
+        "confirmed": 1925765,
+        "deaths": 110068,
         "recovered": 500849,
-        "active": 1309425
+        "active": 1314848
       },
       {
         "date": "2020-06-07T00:00:00",
-        "confirmed": 1943647,
-        "deaths": 110508,
+        "confirmed": 1943882,
+        "deaths": 110511,
         "recovered": 506367,
-        "active": 1326772
+        "active": 1327004
       },
       {
         "date": "2020-06-08T00:00:00",
-        "confirmed": 1960897,
-        "deaths": 110990,
+        "confirmed": 1961428,
+        "deaths": 111011,
         "recovered": 518522,
-        "active": 1331385
+        "active": 1331895
       },
       {
         "date": "2020-06-09T00:00:00",
-        "confirmed": 1979411,
-        "deaths": 111989,
+        "confirmed": 1973230,
+        "deaths": 111694,
         "recovered": 524855,
-        "active": 1342567
+        "active": 1336681
       }
     ]
   },
