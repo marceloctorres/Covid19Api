@@ -493,8 +493,8 @@
     "threeLetterIsoCode": "COD",
     "twoLetterIsoCode": "CD",
     "countryRegion": "Congo (Kinshasa)",
-    "latitude": -4.0383,
-    "longitude": 21.7587,
+    "latitude": -4.322447,
+    "longitude": 15.307045,
     "population": 89561404,
     "cultureNames": [
       {
@@ -507,8 +507,8 @@
     "threeLetterIsoCode": "COG",
     "twoLetterIsoCode": "CG",
     "countryRegion": "Congo (Brazzaville)",
-    "latitude": -0.228,
-    "longitude": 15.8277,
+    "latitude": -4.2634,
+    "longitude": 15.2832,
     "population": 5518092,
     "cultureNames": [
       {
@@ -1423,20 +1423,6 @@
     ]
   },
   {
-    "threeLetterIsoCode": "LSO",
-    "twoLetterIsoCode": "LS",
-    "countryRegion": "Lesotho",
-    "latitude": -29.61,
-    "longitude": 28.2336,
-    "population": 2142252,
-    "cultureNames": [
-      {
-        "culture": "es",
-        "name": "Lesoto"
-      }
-    ]
-  },
-  {
     "threeLetterIsoCode": "LTU",
     "twoLetterIsoCode": "LT",
     "countryRegion": "Lithuania",
@@ -1554,7 +1540,7 @@
     "countryRegion": "Mexico",
     "latitude": 23.6345,
     "longitude": -102.5528,
-    "population": 127792286,
+    "population": 128932753,
     "cultureNames": [
       {
         "culture": "es",
